@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Solucion_Iris">
+</Property><Property Name="Archivo de la solución" Value="C:\Users\YESER\Desktop\Solucion_Iris\Solucion_Iris.sln">
+</Property><Property Name="Archivo de opciones de usuario" Value="C:\Users\YESER\Desktop\Solucion_Iris\Solucion_Iris.suo">
+</Property><Property Name="Date" Value="jueves, 13 de febrero de 2014">
+</Property><Property Name="Time" Value="16:13">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Solucion_Iris.sln" Description="La copia C:\Users\YESER\Desktop\Solucion_Iris\Backup\Solucion_Iris.sln del archivo se ha realizado correctamente">
+</Event><Event ErrorLevel="0" Project="" Source="Solucion_Iris.suo" Description="La copia C:\Users\YESER\Desktop\Solucion_Iris\Backup\Solucion_Iris.suo del archivo se ha realizado correctamente">
+</Event><Event ErrorLevel="0" Project="Iris" Source="Iris\Iris.csproj" Description="Se realizó correctamente la copia de seguridad del archivo de proyecto C:\Users\YESER\Desktop\Solucion_Iris\Backup\Iris\Iris.csproj">
+</Event><Event ErrorLevel="0" Project="Iris" Source="Iris\Form1.cs" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\YESER\Desktop\Solucion_Iris\Backup\Iris\Form1.cs">
+</Event><Event ErrorLevel="0" Project="Iris" Source="Iris\Form1.Designer.cs" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\YESER\Desktop\Solucion_Iris\Backup\Iris\Form1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Iris" Source="Iris\Form2.cs" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\YESER\Desktop\Solucion_Iris\Backup\Iris\Form2.cs">
+</Event><Event ErrorLevel="0" Project="Iris" Source="Iris\Form2.Designer.cs" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\YESER\Desktop\Solucion_Iris\Backup\Iris\Form2.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Iris" Source="Iris\Program.cs" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\YESER\Desktop\Solucion_Iris\Backup\Iris\Program.cs">
+</Event><Event ErrorLevel="0" Project="Iris" Source="Iris\Properties\AssemblyInfo.cs" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\YESER\Desktop\Solucion_Iris\Backup\Iris\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Iris" Source="Iris\Properties\Resources.Designer.cs" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\YESER\Desktop\Solucion_Iris\Backup\Iris\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Iris" Source="Iris\Properties\Settings.Designer.cs" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\YESER\Desktop\Solucion_Iris\Backup\Iris\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Iris" Source="Iris\Properties\Settings.settings" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\YESER\Desktop\Solucion_Iris\Backup\Iris\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="Iris" Source="Iris\Form1.resx" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\YESER\Desktop\Solucion_Iris\Backup\Iris\Form1.resx">
+</Event><Event ErrorLevel="0" Project="Iris" Source="Iris\Form2.resx" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\YESER\Desktop\Solucion_Iris\Backup\Iris\Form2.resx">
+</Event><Event ErrorLevel="0" Project="Iris" Source="Iris\Properties\Resources.resx" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\YESER\Desktop\Solucion_Iris\Backup\Iris\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="Iris" Source="Iris\Iris.csproj" Description="Proyecto convertido correctamente">
+</Event><Event ErrorLevel="3" Project="Iris" Source="Iris\Iris.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Solucion_Iris.sln" Description="La solución se convirtió correctamente">
+</Event><Event ErrorLevel="3" Project="" Source="Solucion_Iris.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Iris" Source="Iris\Iris.csproj" Description="Examen completo: no es necesario actualizar los archivos de proyecto.">
+</Event></UpgradeLog>

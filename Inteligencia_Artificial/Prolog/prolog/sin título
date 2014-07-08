@@ -1,0 +1,14 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%enfermedades
+enfermedad(diarrea).
+enfermedad(tos).
+enfermedad(cansancio).
+enfermedad(fiebre).
+enfermedad(dolordecabeza).
+enfermedad(nauseas).
+enfermedad(ictericia).
+enfermedad(apatia).
+enfermedad(escalofrios).
+enfermedad(jaqueca).
+enfermedad(secrecion).
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%

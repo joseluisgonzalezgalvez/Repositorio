@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="ACDI">
+</Property><Property Name="Archivo de la solución" Value="C:\Users\YESER\Desktop\ACDI\ACDI.sln">
+</Property><Property Name="Archivo de opciones de usuario" Value="C:\Users\YESER\Desktop\ACDI\ACDI.suo">
+</Property><Property Name="Date" Value="viernes, 31 de enero de 2014">
+</Property><Property Name="Time" Value="4:17">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="ACDI.sln" Description="La copia C:\Users\YESER\Desktop\ACDI\Backup\ACDI.sln del archivo se ha realizado correctamente">
+</Event><Event ErrorLevel="0" Project="" Source="ACDI.suo" Description="La copia C:\Users\YESER\Desktop\ACDI\Backup\ACDI.suo del archivo se ha realizado correctamente">
+</Event><Event ErrorLevel="0" Project="ACDI" Source="ACDI\ACDI.csproj" Description="Se realizó correctamente la copia de seguridad del archivo de proyecto C:\Users\YESER\Desktop\ACDI\Backup\ACDI\ACDI.csproj">
+</Event><Event ErrorLevel="0" Project="ACDI" Source="ACDI\Form1.cs" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\YESER\Desktop\ACDI\Backup\ACDI\Form1.cs">
+</Event><Event ErrorLevel="0" Project="ACDI" Source="ACDI\Form1.Designer.cs" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\YESER\Desktop\ACDI\Backup\ACDI\Form1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="ACDI" Source="ACDI\Form10.cs" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\YESER\Desktop\ACDI\Backup\ACDI\Form10.cs">
+</Event><Event ErrorLevel="0" Project="ACDI" Source="ACDI\Form10.Designer.cs" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\YESER\Desktop\ACDI\Backup\ACDI\Form10.Designer.cs">
+</Event><Event ErrorLevel="0" Project="ACDI" Source="ACDI\Form11.cs" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\YESER\Desktop\ACDI\Backup\ACDI\Form11.cs">
+</Event><Event ErrorLevel="0" Project="ACDI" Source="ACDI\Form11.Designer.cs" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\YESER\Desktop\ACDI\Backup\ACDI\Form11.Designer.cs">
+</Event><Event ErrorLevel="0" Project="ACDI" Source="ACDI\Form12.cs" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\YESER\Desktop\ACDI\Backup\ACDI\Form12.cs">
+</Event><Event ErrorLevel="0" Project="ACDI" Source="ACDI\Form12.Designer.cs" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\YESER\Desktop\ACDI\Backup\ACDI\Form12.Designer.cs">
+</Event><Event ErrorLevel="0" Project="ACDI" Source="ACDI\Form13.cs" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\YESER\Desktop\ACDI\Backup\ACDI\Form13.cs">
+</Event><Event ErrorLevel="0" Project="ACDI" Source="ACDI\Form13.Designer.cs" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\YESER\Desktop\ACDI\Backup\ACDI\Form13.Designer.cs">
+</Event><Event ErrorLevel="0" Project="ACDI" Source="ACDI\Form14.cs" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\YESER\Desktop\ACDI\Backup\ACDI\Form14.cs">
+</Event><Event ErrorLevel="0" Project="ACDI" Source="ACDI\Form14.Designer.cs" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\YESER\Desktop\ACDI\Backup\ACDI\Form14.Designer.cs">
+</Event><Event ErrorLevel="0" Project="ACDI" Source="ACDI\Form15.cs" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\YESER\Desktop\ACDI\Backup\ACDI\Form15.cs">
+</Event><Event ErrorLevel="0" Project="ACDI" Source="ACDI\Form15.Designer.cs" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\YESER\Desktop\ACDI\Backup\ACDI\Form15.Designer.cs">
+</Event><Event ErrorLevel="0" Project="ACDI" Source="ACDI\Form16.cs" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\YESER\Desktop\ACDI\Backup\ACDI\Form16.cs">
+</Event><Event ErrorLevel="0" Project="ACDI" Source="ACDI\Form16.Designer.cs" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\YESER\Desktop\ACDI\Backup\ACDI\Form16.Designer.cs">
+</Event><Event ErrorLevel="0" Project="ACDI" Source="ACDI\Form17.cs" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\YESER\Desktop\ACDI\Backup\ACDI\Form17.cs">
+</Event><Event ErrorLevel="0" Project="ACDI" Source="ACDI\Form17.Designer.cs" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\YESER\Desktop\ACDI\Backup\ACDI\Form17.Designer.cs">
+</Event><Event ErrorLevel="0" Project="ACDI" Source="ACDI\Form18.cs" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\YESER\Desktop\ACDI\Backup\ACDI\Form18.cs">
+</Event><Event ErrorLevel="0" Project="ACDI" Source="ACDI\Form18.Designer.cs" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\YESER\Desktop\ACDI\Backup\ACDI\Form18.Designer.cs">
+</Event><Event ErrorLevel="0" Project="ACDI" Source="ACDI\Form19.cs" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\YESER\Desktop\ACDI\Backup\ACDI\Form19.cs">
+</Event><Event ErrorLevel="0" Project="ACDI" Source="ACDI\Form19.Designer.cs" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\YESER\Desktop\ACDI\Backup\ACDI\Form19.Designer.cs">
+</Event><Event ErrorLevel="0" Project="ACDI" Source="ACDI\Form2.cs" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\YESER\Desktop\ACDI\Backup\ACDI\Form2.cs">
+</Event><Event ErrorLevel="0" Project="ACDI" Source="ACDI\Form2.Designer.cs" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\YESER\Desktop\ACDI\Backup\ACDI\Form2.Designer.cs">
+</Event><Event ErrorLevel="0" Project="ACDI" Source="ACDI\Form20.cs" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\YESER\Desktop\ACDI\Backup\ACDI\Form20.cs">
+</Event><Event ErrorLevel="0" Project="ACDI" Source="ACDI\Form20.Designer.cs" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\YESER\Desktop\ACDI\Backup\ACDI\Form20.Designer.cs">
+</Event><Event ErrorLevel="0" Project="ACDI" Source="ACDI\Form21.cs" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\YESER\Desktop\ACDI\Backup\ACDI\Form21.cs">
+</Event><Event ErrorLevel="0" Project="ACDI" Source="ACDI\Form21.Designer.cs" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\YESER\Desktop\ACDI\Backup\ACDI\Form21.Designer.cs">
+</Event><Event ErrorLevel="0" Project="ACDI" Source="ACDI\Form22.cs" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\YESER\Desktop\ACDI\Backup\ACDI\Form22.cs">
+</Event><Event ErrorLevel="0" Project="ACDI" Source="ACDI\Form22.Designer.cs" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\YESER\Desktop\ACDI\Backup\ACDI\Form22.Designer.cs">
+</Event><Event ErrorLevel="0" Project="ACDI" Source="ACDI\Form23.cs" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\YESER\Desktop\ACDI\Backup\ACDI\Form23.cs">
+</Event><Event ErrorLevel="0" Project="ACDI" Source="ACDI\Form23.Designer.cs" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\YESER\Desktop\ACDI\Backup\ACDI\Form23.Designer.cs">
+</Event><Event ErrorLevel="0" Project="ACDI" Source="ACDI\Form24.cs" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\YESER\Desktop\ACDI\Backup\ACDI\Form24.cs">
+</Event><Event ErrorLevel="0" Project="ACDI" Source="ACDI\Form24.Designer.cs" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\YESER\Desktop\ACDI\Backup\ACDI\Form24.Designer.cs">
+</Event><Event ErrorLevel="0" Project="ACDI" Source="ACDI\Form25.cs" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\YESER\Desktop\ACDI\Backup\ACDI\Form25.cs">
+</Event><Event ErrorLevel="0" Project="ACDI" Source="ACDI\Form25.Designer.cs" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\YESER\Desktop\ACDI\Backup\ACDI\Form25.Designer.cs">
+</Event><Event ErrorLevel="0" Project="ACDI" Source="ACDI\Form26.cs" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\YESER\Desktop\ACDI\Backup\ACDI\Form26.cs">
+</Event><Event ErrorLevel="0" Project="ACDI" Source="ACDI\Form26.Designer.cs" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\YESER\Desktop\ACDI\Backup\ACDI\Form26.Designer.cs">
+</Event><Event ErrorLevel="0" Project="ACDI" Source="ACDI\Form27.cs" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\YESER\Desktop\ACDI\Backup\ACDI\Form27.cs">
+</Event><Event ErrorLevel="0" Project="ACDI" Source="ACDI\Form27.Designer.cs" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\YESER\Desktop\ACDI\Backup\ACDI\Form27.Designer.cs">
+</Event><Event ErrorLevel="0" Project="ACDI" Source="ACDI\Form28.cs" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\YESER\Desktop\ACDI\Backup\ACDI\Form28.cs">
+</Event><Event ErrorLevel="0" Project="ACDI" Source="ACDI\Form28.Designer.cs" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\YESER\Desktop\ACDI\Backup\ACDI\Form28.Designer.cs">
+</Event><Event ErrorLevel="0" Project="ACDI" Source="ACDI\Form29.cs" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\YESER\Desktop\ACDI\Backup\ACDI\Form29.cs">
+</Event><Event ErrorLevel="0" Project="ACDI" Source="ACDI\Form29.Designer.cs" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\YESER\Desktop\ACDI\Backup\ACDI\Form29.Designer.cs">
+</Event><Event ErrorLevel="0" Project="ACDI" Source="ACDI\Form3.cs" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\YESER\Desktop\ACDI\Backup\ACDI\Form3.cs">
+</Event><Event ErrorLevel="0" Project="ACDI" Source="ACDI\Form3.Designer.cs" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\YESER\Desktop\ACDI\Backup\ACDI\Form3.Designer.cs">
+</Event><Event ErrorLevel="0" Project="ACDI" Source="ACDI\Form30.cs" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\YESER\Desktop\ACDI\Backup\ACDI\Form30.cs">
+</Event><Event ErrorLevel="0" Project="ACDI" Source="ACDI\Form30.Designer.cs" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\YESER\Desktop\ACDI\Backup\ACDI\Form30.Designer.cs">
+</Event><Event ErrorLevel="0" Project="ACDI" Source="ACDI\Form31.cs" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\YESER\Desktop\ACDI\Backup\ACDI\Form31.cs">
+</Event><Event ErrorLevel="0" Project="ACDI" Source="ACDI\Form31.Designer.cs" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\YESER\Desktop\ACDI\Backup\ACDI\Form31.Designer.cs">
+</Event><Event ErrorLevel="0" Project="ACDI" Source="ACDI\Form32.cs" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\YESER\Desktop\ACDI\Backup\ACDI\Form32.cs">
+</Event><Event ErrorLevel="0" Project="ACDI" Source="ACDI\Form32.Designer.cs" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\YESER\Desktop\ACDI\Backup\ACDI\Form32.Designer.cs">
+</Event><Event ErrorLevel="0" Project="ACDI" Source="ACDI\Form33.cs" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\YESER\Desktop\ACDI\Backup\ACDI\Form33.cs">
+</Event><Event ErrorLevel="0" Project="ACDI" Source="ACDI\Form33.Designer.cs" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\YESER\Desktop\ACDI\Backup\ACDI\Form33.Designer.cs">
+</Event><Event ErrorLevel="0" Project="ACDI" Source="ACDI\Form34.cs" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\YESER\Desktop\ACDI\Backup\ACDI\Form34.cs">
+</Event><Event ErrorLevel="0" Project="ACDI" Source="ACDI\Form34.Designer.cs" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\YESER\Desktop\ACDI\Backup\ACDI\Form34.Designer.cs">
+</Event><Event ErrorLevel="0" Project="ACDI" Source="ACDI\Form35.cs" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\YESER\Desktop\ACDI\Backup\ACDI\Form35.cs">
+</Event><Event ErrorLevel="0" Project="ACDI" Source="ACDI\Form35.Designer.cs" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\YESER\Desktop\ACDI\Backup\ACDI\Form35.Designer.cs">
+</Event><Event ErrorLevel="0" Project="ACDI" Source="ACDI\Form36.cs" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\YESER\Desktop\ACDI\Backup\ACDI\Form36.cs">
+</Event><Event ErrorLevel="0" Project="ACDI" Source="ACDI\Form36.Designer.cs" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\YESER\Desktop\ACDI\Backup\ACDI\Form36.Designer.cs">
+</Event><Event ErrorLevel="0" Project="ACDI" Source="ACDI\Form37.cs" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\YESER\Desktop\ACDI\Backup\ACDI\Form37.cs">
+</Event><Event ErrorLevel="0" Project="ACDI" Source="ACDI\Form37.Designer.cs" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\YESER\Desktop\ACDI\Backup\ACDI\Form37.Designer.cs">
+</Event><Event ErrorLevel="0" Project="ACDI" Source="ACDI\Form4.cs" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\YESER\Desktop\ACDI\Backup\ACDI\Form4.cs">
+</Event><Event ErrorLevel="0" Project="ACDI" Source="ACDI\Form4.Designer.cs" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\YESER\Desktop\ACDI\Backup\ACDI\Form4.Designer.cs">
+</Event><Event ErrorLevel="0" Project="ACDI" Source="ACDI\Form5.cs" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\YESER\Desktop\ACDI\Backup\ACDI\Form5.cs">
+</Event><Event ErrorLevel="0" Project="ACDI" Source="ACDI\Form5.Designer.cs" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\YESER\Desktop\ACDI\Backup\ACDI\Form5.Designer.cs">
+</Event><Event ErrorLevel="0" Project="ACDI" Source="ACDI\Form6.cs" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\YESER\Desktop\ACDI\Backup\ACDI\Form6.cs">
+</Event><Event ErrorLevel="0" Project="ACDI" Source="ACDI\Form6.Designer.cs" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\YESER\Desktop\ACDI\Backup\ACDI\Form6.Designer.cs">
+</Event><Event ErrorLevel="0" Project="ACDI" Source="ACDI\Form7.cs" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\YESER\Desktop\ACDI\Backup\ACDI\Form7.cs">
+</Event><Event ErrorLevel="0" Project="ACDI" Source="ACDI\Form7.Designer.cs" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\YESER\Desktop\ACDI\Backup\ACDI\Form7.Designer.cs">
+</Event><Event ErrorLevel="0" Project="ACDI" Source="ACDI\Form8.cs" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\YESER\Desktop\ACDI\Backup\ACDI\Form8.cs">
+</Event><Event ErrorLevel="0" Project="ACDI" Source="ACDI\Form8.Designer.cs" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\YESER\Desktop\ACDI\Backup\ACDI\Form8.Designer.cs">
+</Event><Event ErrorLevel="0" Project="ACDI" Source="ACDI\Form9.cs" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\YESER\Desktop\ACDI\Backup\ACDI\Form9.cs">
+</Event><Event ErrorLevel="0" Project="ACDI" Source="ACDI\Form9.Designer.cs" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\YESER\Desktop\ACDI\Backup\ACDI\Form9.Designer.cs">
+</Event><Event ErrorLevel="0" Project="ACDI" Source="ACDI\Program.cs" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\YESER\Desktop\ACDI\Backup\ACDI\Program.cs">
+</Event><Event ErrorLevel="0" Project="ACDI" Source="ACDI\Properties\AssemblyInfo.cs" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\YESER\Desktop\ACDI\Backup\ACDI\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="ACDI" Source="ACDI\Properties\Resources.Designer.cs" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\YESER\Desktop\ACDI\Backup\ACDI\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="ACDI" Source="ACDI\Properties\Settings.Designer.cs" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\YESER\Desktop\ACDI\Backup\ACDI\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="ACDI" Source="ACDI\Properties\Settings.settings" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\YESER\Desktop\ACDI\Backup\ACDI\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="ACDI" Source="ACDI\Form1.resx" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\YESER\Desktop\ACDI\Backup\ACDI\Form1.resx">
+</Event><Event ErrorLevel="0" Project="ACDI" Source="ACDI\Form10.resx" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\YESER\Desktop\ACDI\Backup\ACDI\Form10.resx">
+</Event><Event ErrorLevel="0" Project="ACDI" Source="ACDI\Form11.resx" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\YESER\Desktop\ACDI\Backup\ACDI\Form11.resx">
+</Event><Event ErrorLevel="0" Project="ACDI" Source="ACDI\Form12.resx" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\YESER\Desktop\ACDI\Backup\ACDI\Form12.resx">
+</Event><Event ErrorLevel="0" Project="ACDI" Source="ACDI\Form13.resx" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\YESER\Desktop\ACDI\Backup\ACDI\Form13.resx">
+</Event><Event ErrorLevel="0" Project="ACDI" Source="ACDI\Form14.resx" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\YESER\Desktop\ACDI\Backup\ACDI\Form14.resx">
+</Event><Event ErrorLevel="0" Project="ACDI" Source="ACDI\Form15.resx" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\YESER\Desktop\ACDI\Backup\ACDI\Form15.resx">
+</Event><Event ErrorLevel="0" Project="ACDI" Source="ACDI\Form16.resx" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\YESER\Desktop\ACDI\Backup\ACDI\Form16.resx">
+</Event><Event ErrorLevel="0" Project="ACDI" Source="ACDI\Form17.resx" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\YESER\Desktop\ACDI\Backup\ACDI\Form17.resx">
+</Event><Event ErrorLevel="0" Project="ACDI" Source="ACDI\Form18.resx" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\YESER\Desktop\ACDI\Backup\ACDI\Form18.resx">
+</Event><Event ErrorLevel="0" Project="ACDI" Source="ACDI\Form19.resx" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\YESER\Desktop\ACDI\Backup\ACDI\Form19.resx">
+</Event><Event ErrorLevel="0" Project="ACDI" Source="ACDI\Form2.resx" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\YESER\Desktop\ACDI\Backup\ACDI\Form2.resx">
+</Event><Event ErrorLevel="0" Project="ACDI" Source="ACDI\Form20.resx" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\YESER\Desktop\ACDI\Backup\ACDI\Form20.resx">
+</Event><Event ErrorLevel="0" Project="ACDI" Source="ACDI\Form21.resx" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\YESER\Desktop\ACDI\Backup\ACDI\Form21.resx">
+</Event><Event ErrorLevel="0" Project="ACDI" Source="ACDI\Form22.resx" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\YESER\Desktop\ACDI\Backup\ACDI\Form22.resx">
+</Event><Event ErrorLevel="0" Project="ACDI" Source="ACDI\Form23.resx" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\YESER\Desktop\ACDI\Backup\ACDI\Form23.resx">
+</Event><Event ErrorLevel="0" Project="ACDI" Source="ACDI\Form24.resx" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\YESER\Desktop\ACDI\Backup\ACDI\Form24.resx">
+</Event><Event ErrorLevel="0" Project="ACDI" Source="ACDI\Form25.resx" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\YESER\Desktop\ACDI\Backup\ACDI\Form25.resx">
+</Event><Event ErrorLevel="0" Project="ACDI" Source="ACDI\Form26.resx" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\YESER\Desktop\ACDI\Backup\ACDI\Form26.resx">
+</Event><Event ErrorLevel="0" Project="ACDI" Source="ACDI\Form27.resx" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\YESER\Desktop\ACDI\Backup\ACDI\Form27.resx">
+</Event><Event ErrorLevel="0" Project="ACDI" Source="ACDI\Form28.resx" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\YESER\Desktop\ACDI\Backup\ACDI\Form28.resx">
+</Event><Event ErrorLevel="0" Project="ACDI" Source="ACDI\Form29.resx" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\YESER\Desktop\ACDI\Backup\ACDI\Form29.resx">
+</Event><Event ErrorLevel="0" Project="ACDI" Source="ACDI\Form3.resx" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\YESER\Desktop\ACDI\Backup\ACDI\Form3.resx">
+</Event><Event ErrorLevel="0" Project="ACDI" Source="ACDI\Form30.resx" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\YESER\Desktop\ACDI\Backup\ACDI\Form30.resx">
+</Event><Event ErrorLevel="0" Project="ACDI" Source="ACDI\Form31.resx" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\YESER\Desktop\ACDI\Backup\ACDI\Form31.resx">
+</Event><Event ErrorLevel="0" Project="ACDI" Source="ACDI\Form32.resx" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\YESER\Desktop\ACDI\Backup\ACDI\Form32.resx">
+</Event><Event ErrorLevel="0" Project="ACDI" Source="ACDI\Form33.resx" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\YESER\Desktop\ACDI\Backup\ACDI\Form33.resx">
+</Event><Event ErrorLevel="0" Project="ACDI" Source="ACDI\Form34.resx" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\YESER\Desktop\ACDI\Backup\ACDI\Form34.resx">
+</Event><Event ErrorLevel="0" Project="ACDI" Source="ACDI\Form35.resx" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\YESER\Desktop\ACDI\Backup\ACDI\Form35.resx">
+</Event><Event ErrorLevel="0" Project="ACDI" Source="ACDI\Form36.resx" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\YESER\Desktop\ACDI\Backup\ACDI\Form36.resx">
+</Event><Event ErrorLevel="0" Project="ACDI" Source="ACDI\Form37.resx" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\YESER\Desktop\ACDI\Backup\ACDI\Form37.resx">
+</Event><Event ErrorLevel="0" Project="ACDI" Source="ACDI\Form4.resx" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\YESER\Desktop\ACDI\Backup\ACDI\Form4.resx">
+</Event><Event ErrorLevel="0" Project="ACDI" Source="ACDI\Form5.resx" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\YESER\Desktop\ACDI\Backup\ACDI\Form5.resx">
+</Event><Event ErrorLevel="0" Project="ACDI" Source="ACDI\Form6.resx" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\YESER\Desktop\ACDI\Backup\ACDI\Form6.resx">
+</Event><Event ErrorLevel="0" Project="ACDI" Source="ACDI\Form7.resx" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\YESER\Desktop\ACDI\Backup\ACDI\Form7.resx">
+</Event><Event ErrorLevel="0" Project="ACDI" Source="ACDI\Form8.resx" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\YESER\Desktop\ACDI\Backup\ACDI\Form8.resx">
+</Event><Event ErrorLevel="0" Project="ACDI" Source="ACDI\Form9.resx" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\YESER\Desktop\ACDI\Backup\ACDI\Form9.resx">
+</Event><Event ErrorLevel="0" Project="ACDI" Source="ACDI\Properties\Resources.resx" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\YESER\Desktop\ACDI\Backup\ACDI\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="ACDI" Source="ACDI\ACDI.csproj" Description="Proyecto convertido correctamente">
+</Event><Event ErrorLevel="3" Project="ACDI" Source="ACDI\ACDI.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="ACDI.sln" Description="La solución se convirtió correctamente">
+</Event><Event ErrorLevel="3" Project="" Source="ACDI.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="ACDI" Source="ACDI\ACDI.csproj" Description="Examen completo: no es necesario actualizar los archivos de proyecto.">
+</Event></UpgradeLog>

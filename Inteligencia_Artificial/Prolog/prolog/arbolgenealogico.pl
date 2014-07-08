@@ -1,0 +1,77 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+hombre(fidel).
+hombre(rodrigo).
+hombre(rubel).
+hombre(romeo).
+hombre(bernardo).
+hombre(gerardo).
+hombre(apolinar).
+hombre(erwis).
+hombre(beny).
+hombre(benito).
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+mujer(esther).
+mujer(azalea).
+mujer(lucina).
+mujer(maria).
+mujer(adriana).
+mujer(citlali).
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+esposos(esther,fidel).
+esposos(maria,rodrigo).
+esposos(adriana,benito).
+
+esposos(fidel,esther).
+esposos(rodrigo,maria).
+esposos(benito,adriana).
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+padre(fidel,rodrigo).
+padre(fidel,rusbel).
+padre(fidel,romeo).
+padre(fidel,bernardo).
+padre(fidel,gerardo).
+padre(fidel,benito).
+padre(rodrigo,erwis).
+padre(rodrigo,citlali).
+padre(benito,beny).
+
+padre(esther,rodrigo).
+padre(esther,rusbel).
+padre(esther,romeo).
+padre(esther,bernardo).
+padre(esther,gerardo).
+padre(esther,benito).
+padre(maria,erwis).
+padre(maria,citlali).
+padre(adriana,beny).
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+hijo(A,B):-
+	padre(B,A),hombre(A).
+hija(A,B):-
+	padre(B,A),mujer(A).
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+nieto(A,B):-
+	padre(B,C),padre(C,A),hombre(A).
+nieta(A,B):-
+	padre(B,C),padre(C,A),mujer(A).
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+hermano(A,B):-
+	padre(C,A),padre(C,B),A\==B.
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+primo(A,B):- 
+	padre(C,A),padre(D,B),hermano(C,D),D\==C.
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+tio(A,B):-
+	padre(C,B),hermano(C,A),hombre(A).
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+abuelo(A,B):-nieto(B,A).
+abuelo(A,B):-nieta(B,A).
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+cunado(A,B):-esposos(B,C),hermano(A,C).
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+tia(A,B):-padre(C,B),hermano(C,A),mujer(A).
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+sobrino(A,B):-hijo(A,C),hermano(C,B),hombre(A).
+sobrina(A,B):-hija(A,C),hermano(C,B),mujer(A).
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+suegro(A,B):-hijo(C,A),esposos(C,B).

@@ -1,0 +1,42 @@
+C:\Users\0910080006\Documents\Visual Studio 2008\Projects\Solucion_Iris\Iris\bin\Debug\Iris.exe
+C:\Users\0910080006\Documents\Visual Studio 2008\Projects\Solucion_Iris\Iris\bin\Debug\Iris.pdb
+C:\Users\0910080006\Documents\Visual Studio 2008\Projects\Solucion_Iris\Iris\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\0910080006\Documents\Visual Studio 2008\Projects\Solucion_Iris\Iris\obj\Debug\Iris.Form1.resources
+C:\Users\0910080006\Documents\Visual Studio 2008\Projects\Solucion_Iris\Iris\obj\Debug\Iris.Properties.Resources.resources
+C:\Users\0910080006\Documents\Visual Studio 2008\Projects\Solucion_Iris\Iris\obj\Debug\Iris.csproj.GenerateResource.Cache
+C:\Users\0910080006\Documents\Visual Studio 2008\Projects\Solucion_Iris\Iris\obj\Debug\Iris.exe
+C:\Users\0910080006\Documents\Visual Studio 2008\Projects\Solucion_Iris\Iris\obj\Debug\Iris.pdb
+C:\Users\0910080006\Documents\Visual Studio 2008\Projects\Solucion_Iris\Iris\obj\Debug\Iris.Form2.resources
+C:\Users\YESER\Desktop\Solucion_Iris\Iris\obj\Debug\Iris.exe
+C:\Users\YESER\Desktop\Solucion_Iris\Iris\obj\Debug\Iris.pdb
+C:\Users\YESER\Desktop\Solucion_Iris\Iris\bin\Debug\Iris.exe
+C:\Users\YESER\Desktop\Solucion_Iris\Iris\bin\Debug\Iris.pdb
+C:\Users\YESER\Desktop\Solucion_Iris\Iris\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\YESER\Desktop\Solucion_Iris\Iris\obj\Debug\Iris.Form1.resources
+C:\Users\YESER\Desktop\Solucion_Iris\Iris\obj\Debug\Iris.Form2.resources
+C:\Users\YESER\Desktop\Solucion_Iris\Iris\obj\Debug\Iris.Properties.Resources.resources
+C:\Users\YESER\Desktop\Solucion_Iris\Iris\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\YESER\Desktop\Solucion_Iris\Iris\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\YESER\Desktop\Solucion_Iris\Iris\bin\Debug\NeuronDotNet.Core.xml
+C:\Users\0910080006\Documents\Visual Studio 2010\Projects\Solucion_Iris3\Iris\obj\Debug\Iris.exe
+C:\Users\0910080006\Documents\Visual Studio 2010\Projects\Solucion_Iris3\Iris\obj\Debug\Iris.pdb
+C:\Users\0910080006\Documents\Visual Studio 2010\Projects\Solucion_Iris3\Iris\bin\Debug\Iris.exe
+C:\Users\0910080006\Documents\Visual Studio 2010\Projects\Solucion_Iris3\Iris\bin\Debug\Iris.pdb
+C:\Users\0910080006\Documents\Visual Studio 2010\Projects\Solucion_Iris3\Iris\bin\Debug\NeuronDotNet.Core.xml
+C:\Users\0910080006\Documents\Visual Studio 2010\Projects\Solucion_Iris3\Iris\obj\Debug\Iris.csprojResolveAssemblyReference.cache
+C:\Users\0910080006\Documents\Visual Studio 2010\Projects\Solucion_Iris3\Iris\obj\Debug\Iris.Form1.resources
+C:\Users\0910080006\Documents\Visual Studio 2010\Projects\Solucion_Iris3\Iris\obj\Debug\Iris.Form2.resources
+C:\Users\0910080006\Documents\Visual Studio 2010\Projects\Solucion_Iris3\Iris\obj\Debug\Iris.Properties.Resources.resources
+C:\Users\0910080006\Documents\Visual Studio 2010\Projects\Solucion_Iris3\Iris\obj\Debug\Iris.csproj.GenerateResource.Cache
+C:\Users\YESER\Desktop\Solucion_Iris3\Iris\obj\Debug\Iris.exe
+C:\Users\YESER\Desktop\Solucion_Iris3\Iris\obj\Debug\Iris.pdb
+C:\Users\YESER\Desktop\Solucion_Iris3\Iris\bin\Debug\Iris.exe
+C:\Users\YESER\Desktop\Solucion_Iris3\Iris\bin\Debug\Iris.pdb
+C:\Users\YESER\Desktop\Solucion_Iris3\Iris\bin\Debug\NeuronDotNet.Core.xml
+C:\Users\YESER\Desktop\Solucion_Iris3\Iris\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\YESER\Desktop\Solucion_Iris3\Iris\obj\Debug\Iris.Form1.resources
+C:\Users\YESER\Desktop\Solucion_Iris3\Iris\obj\Debug\Iris.Form2.resources
+C:\Users\YESER\Desktop\Solucion_Iris3\Iris\obj\Debug\Iris.Properties.Resources.resources
+C:\Users\YESER\Desktop\Solucion_Iris3\Iris\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\YESER\Desktop\Solucion_Iris3\Iris\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\YESER\Desktop\Solucion_Iris3\Iris\obj\Debug\Iris.Form3.resources

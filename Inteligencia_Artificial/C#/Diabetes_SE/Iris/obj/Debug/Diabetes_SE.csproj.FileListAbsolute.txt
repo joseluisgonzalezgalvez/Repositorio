@@ -1,0 +1,22 @@
+C:\Users\YESER\Documents\Visual Studio 2010\Projects\Solucion_Iris3 - copia\Iris\obj\Debug\Iris.exe
+C:\Users\YESER\Documents\Visual Studio 2010\Projects\Solucion_Iris3 - copia\Iris\obj\Debug\Iris.pdb
+C:\Users\YESER\Documents\Visual Studio 2010\Projects\Solucion_Iris3 - copia\Iris\bin\Debug\Iris.exe
+C:\Users\YESER\Documents\Visual Studio 2010\Projects\Solucion_Iris3 - copia\Iris\bin\Debug\Iris.pdb
+C:\Users\YESER\Documents\Visual Studio 2010\Projects\Solucion_Iris3 - copia\Iris\bin\Debug\NeuronDotNet.Core.xml
+C:\Users\YESER\Documents\Visual Studio 2010\Projects\Solucion_Iris3 - copia\Iris\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\YESER\Documents\Visual Studio 2010\Projects\Solucion_Iris3 - copia\Iris\obj\Debug\Iris.Form1.resources
+C:\Users\YESER\Documents\Visual Studio 2010\Projects\Solucion_Iris3 - copia\Iris\obj\Debug\Iris.Form2.resources
+C:\Users\YESER\Documents\Visual Studio 2010\Projects\Solucion_Iris3 - copia\Iris\obj\Debug\Iris.Properties.Resources.resources
+C:\Users\YESER\Documents\Visual Studio 2010\Projects\Solucion_Iris3 - copia\Iris\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\YESER\Documents\Visual Studio 2010\Projects\Solucion_Iris3 - copia\Iris\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\YESER\Documents\Visual Studio 2010\Projects\Diabetes_SE\Iris\obj\Debug\Iris.exe
+C:\Users\YESER\Documents\Visual Studio 2010\Projects\Diabetes_SE\Iris\obj\Debug\Iris.pdb
+C:\Users\YESER\Documents\Visual Studio 2010\Projects\Diabetes_SE\Iris\bin\Debug\Iris.exe
+C:\Users\YESER\Documents\Visual Studio 2010\Projects\Diabetes_SE\Iris\bin\Debug\Iris.pdb
+C:\Users\YESER\Documents\Visual Studio 2010\Projects\Diabetes_SE\Iris\bin\Debug\NeuronDotNet.Core.xml
+C:\Users\YESER\Documents\Visual Studio 2010\Projects\Diabetes_SE\Iris\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\YESER\Documents\Visual Studio 2010\Projects\Diabetes_SE\Iris\obj\Debug\Iris.Form1.resources
+C:\Users\YESER\Documents\Visual Studio 2010\Projects\Diabetes_SE\Iris\obj\Debug\Iris.Form2.resources
+C:\Users\YESER\Documents\Visual Studio 2010\Projects\Diabetes_SE\Iris\obj\Debug\Iris.Properties.Resources.resources
+C:\Users\YESER\Documents\Visual Studio 2010\Projects\Diabetes_SE\Iris\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\YESER\Documents\Visual Studio 2010\Projects\Diabetes_SE\Iris\obj\Debug\GenerateResource.write.1.tlog

@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="utf-8"?><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<!-- git web interface version 1.7.4.1, (C) 2005-2006, Kay Sievers <kay.sievers@vrfy.org>, Christian Gierke -->
+<!-- git core binaries version 1.7.2.5 -->
+<head>
+<meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+<meta name="generator" content="gitweb/1.7.4.1 git/1.7.2.5"/>
+<meta name="robots" content="index, nofollow"/>
+<title>SWI-Prolog GIT browser - packages/http.git/history - Makefile.in</title>
+<base href="http://www.swi-prolog.org" />
+<link rel="stylesheet" type="text/css" href="/git/static/gitweb.css"/>
+<link rel="alternate" title="packages/http.git - history of Makefile.in - RSS feed" href="http://www.swi-prolog.org/git/packages/http.git/rss?f=Makefile.in" type="application/rss+xml" />
+<link rel="alternate" title="packages/http.git - history of Makefile.in - RSS feed (no merges)" href="http://www.swi-prolog.org/git/packages/http.git/rss?f=Makefile.in;opt=--no-merges" type="application/rss+xml" />
+<link rel="alternate" title="packages/http.git - history of Makefile.in - Atom feed" href="http://www.swi-prolog.org/git/packages/http.git/atom?f=Makefile.in;opt=--no-merges" type="application/atom+xml" />
+<link rel="alternate" title="packages/http.git - history of Makefile.in - Atom feed (no merges)" href="http://www.swi-prolog.org/git/packages/http.git/atom?f=Makefile.in;opt=--no-merges" type="application/atom+xml" />
+<link rel="shortcut icon" href="/git/static/git-favicon.png" type="image/png" />
+</head>
+<body>
+<h1 align="center">The <a href="/">SWI-Prolog</a> GIT repositories</h1>
+
+<div class="page_header">
+<a title="git homepage" href="http://git-scm.com/"><img class="logo" height="27" src="/git/static/git-logo.png" alt="git" width="72" /></a><a href="http://www.swi-prolog.org/git/">projects</a> / <a href="http://www.swi-prolog.org/git/packages/http.git">packages/http.git</a> / history
+</div>
+<div class="page_nav">
+<a href="http://www.swi-prolog.org/git/packages/http.git">summary</a> | <a href="http://www.swi-prolog.org/git/packages/http.git/shortlog">shortlog</a> | <a href="http://www.swi-prolog.org/git/packages/http.git/log">log</a> | <a href="http://www.swi-prolog.org/git/packages/http.git/commit">commit</a> | <a href="http://www.swi-prolog.org/git/packages/http.git/commitdiff">commitdiff</a> | <a href="http://www.swi-prolog.org/git/packages/http.git/tree">tree</a><br/>
+first &sdot; prev &sdot; next<br/>
+</div>
+<div class="header">
+<a class="title" href="http://www.swi-prolog.org/git/packages/http.git/commit/99113ccba15a3276e191b8942c72929334189c37">More advanced demo of using http_dispatch</a>
+</div>
+<div class="page_path"><a title="tree root" href="http://www.swi-prolog.org/git/packages/http.git/tree/99113ccba15a3276e191b8942c72929334189c37">[packages/http.git]</a> / <a title="Makefile.in" href="http://www.swi-prolog.org/git/packages/http.git/blob_plain/99113ccba15a3276e191b8942c72929334189c37:/Makefile.in">Makefile.in</a><br/></div>
+<table class="history">
+<tr class="dark">
+<td title="3 years ago"><i>2008-07-02</i></td>
+<td class="author">Jan Wielemaker</td><td><a class="list subject" href="http://www.swi-prolog.org/git/packages/http.git/commit/0621822a0021ecc2af8a3718e739aa622a598710">Added cgi streams to test suite</a></td>
+<td class="link"><a href="http://www.swi-prolog.org/git/packages/http.git/blob/0621822a0021ecc2af8a3718e739aa622a598710:/Makefile.in">blob</a> | <a href="http://www.swi-prolog.org/git/packages/http.git/commitdiff/0621822a0021ecc2af8a3718e739aa622a598710">commitdiff</a></td>
+</tr>
+<tr class="light">
+<td title="3 years ago"><i>2008-07-02</i></td>
+<td class="author">Jan Wielemaker</td><td><a class="list subject" href="http://www.swi-prolog.org/git/packages/http.git/commit/d7bb322f62bd3978ce1262ef88f12db01e3b170c">Added cgi_open/4</a></td>
+<td class="link"><a href="http://www.swi-prolog.org/git/packages/http.git/blob/d7bb322f62bd3978ce1262ef88f12db01e3b170c:/Makefile.in">blob</a> | <a href="http://www.swi-prolog.org/git/packages/http.git/commitdiff/d7bb322f62bd3978ce1262ef88f12db01e3b170c">commitdiff</a> | <a href="http://www.swi-prolog.org/git/packages/http.git/blobdiff/d7bb322f62bd3978ce1262ef88f12db01e3b170c..99113ccba15a3276e191b8942c72929334189c37:/Makefile.in">diff to current</a></td>
+</tr>
+<tr class="dark">
+<td title="3 years ago"><i>2007-12-15</i></td>
+<td class="author">Jan Wielemaker</td><td><a class="list subject" href="http://www.swi-prolog.org/git/packages/http.git/commit/3d12f299950f74a7d874c77a8953990587b35836">Fixed make clean to remove the json objects</a></td>
+<td class="link"><a href="http://www.swi-prolog.org/git/packages/http.git/blob/3d12f299950f74a7d874c77a8953990587b35836:/Makefile.in">blob</a> | <a href="http://www.swi-prolog.org/git/packages/http.git/commitdiff/3d12f299950f74a7d874c77a8953990587b35836">commitdiff</a> | <a href="http://www.swi-prolog.org/git/packages/http.git/blobdiff/3d12f299950f74a7d874c77a8953990587b35836..99113ccba15a3276e191b8942c72929334189c37:/Makefile.in">diff to current</a></td>
+</tr>
+<tr class="light">
+<td title="3 years ago"><i>2007-12-11</i></td>
+<td class="author">Jan Wielemaker</td><td><a class="list subject" title="DOC: various enhancement to the presentation of pldoc @keywords" href="http://www.swi-prolog.org/git/packages/http.git/commit/f3c4eb840bf07c620ca82c4e2eb5d39d0e757447">DOC: various enhancement to the presentation of pldoc... </a></td>
+<td class="link"><a href="http://www.swi-prolog.org/git/packages/http.git/blob/f3c4eb840bf07c620ca82c4e2eb5d39d0e757447:/Makefile.in">blob</a> | <a href="http://www.swi-prolog.org/git/packages/http.git/commitdiff/f3c4eb840bf07c620ca82c4e2eb5d39d0e757447">commitdiff</a> | <a href="http://www.swi-prolog.org/git/packages/http.git/blobdiff/f3c4eb840bf07c620ca82c4e2eb5d39d0e757447..99113ccba15a3276e191b8942c72929334189c37:/Makefile.in">diff to current</a></td>
+</tr>
+<tr class="dark">
+<td title="3 years ago"><i>2007-12-10</i></td>
+<td class="author">Jan Wielemaker</td><td><a class="list subject" href="http://www.swi-prolog.org/git/packages/http.git/commit/1e45e76a3c011d9b84e7d448f574c7597eb024e7">Added more documentation to the JSON routines</a></td>
+<td class="link"><a href="http://www.swi-prolog.org/git/packages/http.git/blob/1e45e76a3c011d9b84e7d448f574c7597eb024e7:/Makefile.in">blob</a> | <a href="http://www.swi-prolog.org/git/packages/http.git/commitdiff/1e45e76a3c011d9b84e7d448f574c7597eb024e7">commitdiff</a> | <a href="http://www.swi-prolog.org/git/packages/http.git/blobdiff/1e45e76a3c011d9b84e7d448f574c7597eb024e7..99113ccba15a3276e191b8942c72929334189c37:/Makefile.in">diff to current</a></td>
+</tr>
+<tr class="light">
+<td title="3 years ago"><i>2007-12-08</i></td>
+<td class="author">Jan Wielemaker</td><td><a class="list subject" href="http://www.swi-prolog.org/git/packages/http.git/commit/490cf12113b916c03256edd74080e852d70e2f14">Documented JSON support through PlDoc</a></td>
+<td class="link"><a href="http://www.swi-prolog.org/git/packages/http.git/blob/490cf12113b916c03256edd74080e852d70e2f14:/Makefile.in">blob</a> | <a href="http://www.swi-prolog.org/git/packages/http.git/commitdiff/490cf12113b916c03256edd74080e852d70e2f14">commitdiff</a> | <a href="http://www.swi-prolog.org/git/packages/http.git/blobdiff/490cf12113b916c03256edd74080e852d70e2f14..99113ccba15a3276e191b8942c72929334189c37:/Makefile.in">diff to current</a></td>
+</tr>
+<tr class="dark">
+<td title="3 years ago"><i>2007-12-07</i></td>
+<td class="author">Jan Wielemaker</td><td><a class="list subject" href="http://www.swi-prolog.org/git/packages/http.git/commit/0a8892693b636a4431ab9d89311d29dec7748f8e">Install all files</a></td>
+<td class="link"><a href="http://www.swi-prolog.org/git/packages/http.git/blob/0a8892693b636a4431ab9d89311d29dec7748f8e:/Makefile.in">blob</a> | <a href="http://www.swi-prolog.org/git/packages/http.git/commitdiff/0a8892693b636a4431ab9d89311d29dec7748f8e">commitdiff</a> | <a href="http://www.swi-prolog.org/git/packages/http.git/blobdiff/0a8892693b636a4431ab9d89311d29dec7748f8e..99113ccba15a3276e191b8942c72929334189c37:/Makefile.in">diff to current</a></td>
+</tr>
+<tr class="light">
+<td title="3 years ago"><i>2007-12-07</i></td>
+<td class="author">Jan Wielemaker</td><td><a class="list subject" title="MODIFIED: renamed library(http/http_chunked) to library(http/http_stream)." href="http://www.swi-prolog.org/git/packages/http.git/commit/f877844160d48efa08ee031634b936b41f784651">MODIFIED: renamed library(http/http_chunked) to library... </a></td>
+<td class="link"><a href="http://www.swi-prolog.org/git/packages/http.git/blob/f877844160d48efa08ee031634b936b41f784651:/Makefile.in">blob</a> | <a href="http://www.swi-prolog.org/git/packages/http.git/commitdiff/f877844160d48efa08ee031634b936b41f784651">commitdiff</a> | <a href="http://www.swi-prolog.org/git/packages/http.git/blobdiff/f877844160d48efa08ee031634b936b41f784651..99113ccba15a3276e191b8942c72929334189c37:/Makefile.in">diff to current</a></td>
+</tr>
+<tr class="dark">
+<td title="3 years ago"><i>2007-12-06</i></td>
+<td class="author">Jan Wielemaker</td><td><a class="list subject" href="http://www.swi-prolog.org/git/packages/http.git/commit/8a7db98e881cc93505555b153477d561899cf359">Naming conventions.  Ulrich Neumerkel.</a></td>
+<td class="link"><a href="http://www.swi-prolog.org/git/packages/http.git/blob/8a7db98e881cc93505555b153477d561899cf359:/Makefile.in">blob</a> | <a href="http://www.swi-prolog.org/git/packages/http.git/commitdiff/8a7db98e881cc93505555b153477d561899cf359">commitdiff</a> | <a href="http://www.swi-prolog.org/git/packages/http.git/blobdiff/8a7db98e881cc93505555b153477d561899cf359..99113ccba15a3276e191b8942c72929334189c37:/Makefile.in">diff to current</a></td>
+</tr>
+<tr class="light">
+<td title="3 years ago"><i>2007-12-04</i></td>
+<td class="author">Jan Wielemaker</td><td><a class="list subject" title="ADDED: library(http/json), providing (still incomplete) JSON support" href="http://www.swi-prolog.org/git/packages/http.git/commit/ed68795452ce71f89bd2d2c31a13b8c4ba7739a7">ADDED: library(http/json), providing (still incomplete... </a></td>
+<td class="link"><a href="http://www.swi-prolog.org/git/packages/http.git/blob/ed68795452ce71f89bd2d2c31a13b8c4ba7739a7:/Makefile.in">blob</a> | <a href="http://www.swi-prolog.org/git/packages/http.git/commitdiff/ed68795452ce71f89bd2d2c31a13b8c4ba7739a7">commitdiff</a> | <a href="http://www.swi-prolog.org/git/packages/http.git/blobdiff/ed68795452ce71f89bd2d2c31a13b8c4ba7739a7..99113ccba15a3276e191b8942c72929334189c37:/Makefile.in">diff to current</a></td>
+</tr>
+<tr class="dark">
+<td title="3 years ago"><i>2007-11-06</i></td>
+<td class="author">Jan Wielemaker</td><td><a class="list subject" title="ADDED: post/receive mechanism to modularize CSS and Javascript support in" href="http://www.swi-prolog.org/git/packages/http.git/commit/761b1d56180d852f16d91dc98eb164d67d462a31">ADDED: post/receive mechanism to modularize CSS and... </a></td>
+<td class="link"><a href="http://www.swi-prolog.org/git/packages/http.git/blob/761b1d56180d852f16d91dc98eb164d67d462a31:/Makefile.in">blob</a> | <a href="http://www.swi-prolog.org/git/packages/http.git/commitdiff/761b1d56180d852f16d91dc98eb164d67d462a31">commitdiff</a> | <a href="http://www.swi-prolog.org/git/packages/http.git/blobdiff/761b1d56180d852f16d91dc98eb164d67d462a31..99113ccba15a3276e191b8942c72929334189c37:/Makefile.in">diff to current</a></td>
+</tr>
+<tr class="light">
+<td title="3 years ago"><i>2007-10-09</i></td>
+<td class="author">Jan Wielemaker</td><td><a class="list subject" href="http://www.swi-prolog.org/git/packages/http.git/commit/8cb578f3f8dc021f9662681e84c58f73dd5c88bc">* Avoid permission error</a></td>
+<td class="link"><a href="http://www.swi-prolog.org/git/packages/http.git/blob/8cb578f3f8dc021f9662681e84c58f73dd5c88bc:/Makefile.in">blob</a> | <a href="http://www.swi-prolog.org/git/packages/http.git/commitdiff/8cb578f3f8dc021f9662681e84c58f73dd5c88bc">commitdiff</a> | <a href="http://www.swi-prolog.org/git/packages/http.git/blobdiff/8cb578f3f8dc021f9662681e84c58f73dd5c88bc..99113ccba15a3276e191b8942c72929334189c37:/Makefile.in">diff to current</a></td>
+</tr>
+<tr class="dark">
+<td title="4 years ago"><i>2007-07-26</i></td>
+<td class="author">Jan Wielemaker</td><td><a class="list subject" href="http://www.swi-prolog.org/git/packages/http.git/commit/1e34cbe3f318e4dd14ea4fa5a6aa570efe6f8730">* Cleanup of build</a> <span class="refs"> <span class="tag" title="tags/V5.6.38"><a href="http://www.swi-prolog.org/git/packages/http.git/history/refs/tags/V5.6.38">V5.6.38</a></span> <span class="tag" title="tags/V5.6.39"><a href="http://www.swi-prolog.org/git/packages/http.git/history/refs/tags/V5.6.39">V5.6.39</a></span> <span class="tag" title="tags/V5.6.40"><a href="http://www.swi-prolog.org/git/packages/http.git/history/refs/tags/V5.6.40">V5.6.40</a></span> <span class="tag" title="tags/V5.6.41"><a href="http://www.swi-prolog.org/git/packages/http.git/history/refs/tags/V5.6.41">V5.6.41</a></span></span></td>
+<td class="link"><a href="http://www.swi-prolog.org/git/packages/http.git/blob/1e34cbe3f318e4dd14ea4fa5a6aa570efe6f8730:/Makefile.in">blob</a> | <a href="http://www.swi-prolog.org/git/packages/http.git/commitdiff/1e34cbe3f318e4dd14ea4fa5a6aa570efe6f8730">commitdiff</a> | <a href="http://www.swi-prolog.org/git/packages/http.git/blobdiff/1e34cbe3f318e4dd14ea4fa5a6aa570efe6f8730..99113ccba15a3276e191b8942c72929334189c37:/Makefile.in">diff to current</a></td>
+</tr>
+<tr class="light">
+<td title="4 years ago"><i>2007-06-20</i></td>
+<td class="author">Jan Wielemaker</td><td><a class="list subject" href="http://www.swi-prolog.org/git/packages/http.git/commit/ed261189d8b8761f30666d97bed0fbccc1b00242">* Preparing 5.6.36</a> <span class="refs"> <span class="tag" title="tags/V5.6.36"><a href="http://www.swi-prolog.org/git/packages/http.git/history/refs/tags/V5.6.36">V5.6.36</a></span></span></td>
+<td class="link"><a href="http://www.swi-prolog.org/git/packages/http.git/blob/ed261189d8b8761f30666d97bed0fbccc1b00242:/Makefile.in">blob</a> | <a href="http://www.swi-prolog.org/git/packages/http.git/commitdiff/ed261189d8b8761f30666d97bed0fbccc1b00242">commitdiff</a> | <a href="http://www.swi-prolog.org/git/packages/http.git/blobdiff/ed261189d8b8761f30666d97bed0fbccc1b00242..99113ccba15a3276e191b8942c72929334189c37:/Makefile.in">diff to current</a></td>
+</tr>
+<tr class="dark">
+<td title="4 years ago"><i>2007-06-16</i></td>
+<td class="author">Jan Wielemaker</td><td><a class="list subject" href="http://www.swi-prolog.org/git/packages/http.git/commit/be5a0799efd6cbfef76a7a8a37abd99b07025293">* Typo</a></td>
+<td class="link"><a href="http://www.swi-prolog.org/git/packages/http.git/blob/be5a0799efd6cbfef76a7a8a37abd99b07025293:/Makefile.in">blob</a> | <a href="http://www.swi-prolog.org/git/packages/http.git/commitdiff/be5a0799efd6cbfef76a7a8a37abd99b07025293">commitdiff</a> | <a href="http://www.swi-prolog.org/git/packages/http.git/blobdiff/be5a0799efd6cbfef76a7a8a37abd99b07025293..99113ccba15a3276e191b8942c72929334189c37:/Makefile.in">diff to current</a></td>
+</tr>
+<tr class="light">
+<td title="4 years ago"><i>2007-06-16</i></td>
+<td class="author">Jan Wielemaker</td><td><a class="list subject" href="http://www.swi-prolog.org/git/packages/http.git/commit/f259710f1b6bfd07ac69039e92e4334836c64971">* Added library to support HTTP chunked encoding</a></td>
+<td class="link"><a href="http://www.swi-prolog.org/git/packages/http.git/blob/f259710f1b6bfd07ac69039e92e4334836c64971:/Makefile.in">blob</a> | <a href="http://www.swi-prolog.org/git/packages/http.git/commitdiff/f259710f1b6bfd07ac69039e92e4334836c64971">commitdiff</a> | <a href="http://www.swi-prolog.org/git/packages/http.git/blobdiff/f259710f1b6bfd07ac69039e92e4334836c64971..99113ccba15a3276e191b8942c72929334189c37:/Makefile.in">diff to current</a></td>
+</tr>
+<tr class="dark">
+<td title="4 years ago"><i>2007-06-07</i></td>
+<td class="author">Jan Wielemaker</td><td><a class="list subject" title="* Added and documented the HTTP dispatch and authentication libraries" href="http://www.swi-prolog.org/git/packages/http.git/commit/d5511f52774e5743d0a4b04ad3e5c6e4fa65910a">* Added and documented the HTTP dispatch and authentica... </a></td>
+<td class="link"><a href="http://www.swi-prolog.org/git/packages/http.git/blob/d5511f52774e5743d0a4b04ad3e5c6e4fa65910a:/Makefile.in">blob</a> | <a href="http://www.swi-prolog.org/git/packages/http.git/commitdiff/d5511f52774e5743d0a4b04ad3e5c6e4fa65910a">commitdiff</a> | <a href="http://www.swi-prolog.org/git/packages/http.git/blobdiff/d5511f52774e5743d0a4b04ad3e5c6e4fa65910a..99113ccba15a3276e191b8942c72929334189c37:/Makefile.in">diff to current</a></td>
+</tr>
+<tr class="light">
+<td title="4 years ago"><i>2007-03-06</i></td>
+<td class="author">Jan Wielemaker</td><td><a class="list subject" href="http://www.swi-prolog.org/git/packages/http.git/commit/f102eaa83679d9e683e2732e7d39de3e400f15be">* Added final_url option to http_open/3</a></td>
+<td class="link"><a href="http://www.swi-prolog.org/git/packages/http.git/blob/f102eaa83679d9e683e2732e7d39de3e400f15be:/Makefile.in">blob</a> | <a href="http://www.swi-prolog.org/git/packages/http.git/commitdiff/f102eaa83679d9e683e2732e7d39de3e400f15be">commitdiff</a> | <a href="http://www.swi-prolog.org/git/packages/http.git/blobdiff/f102eaa83679d9e683e2732e7d39de3e400f15be..99113ccba15a3276e191b8942c72929334189c37:/Makefile.in">diff to current</a></td>
+</tr>
+<tr class="dark">
+<td title="4 years ago"><i>2007-02-20</i></td>
+<td class="author">Jan Wielemaker</td><td><a class="list subject" href="http://www.swi-prolog.org/git/packages/http.git/commit/3420287a3e28f64bc4b17c5ff1d163263f5505fe">* Fix runtex path</a></td>
+<td class="link"><a href="http://www.swi-prolog.org/git/packages/http.git/blob/3420287a3e28f64bc4b17c5ff1d163263f5505fe:/Makefile.in">blob</a> | <a href="http://www.swi-prolog.org/git/packages/http.git/commitdiff/3420287a3e28f64bc4b17c5ff1d163263f5505fe">commitdiff</a> | <a href="http://www.swi-prolog.org/git/packages/http.git/blobdiff/3420287a3e28f64bc4b17c5ff1d163263f5505fe..99113ccba15a3276e191b8942c72929334189c37:/Makefile.in">diff to current</a></td>
+</tr>
+<tr class="light">
+<td title="5 years ago"><i>2006-04-11</i></td>
+<td class="author">Jan Wielemaker</td><td><a class="list subject" href="http://www.swi-prolog.org/git/packages/http.git/commit/fed285926043add7f9748ed34c0732a76bfbbc55">* Added http_parameters.pl</a></td>
+<td class="link"><a href="http://www.swi-prolog.org/git/packages/http.git/blob/fed285926043add7f9748ed34c0732a76bfbbc55:/Makefile.in">blob</a> | <a href="http://www.swi-prolog.org/git/packages/http.git/commitdiff/fed285926043add7f9748ed34c0732a76bfbbc55">commitdiff</a> | <a href="http://www.swi-prolog.org/git/packages/http.git/blobdiff/fed285926043add7f9748ed34c0732a76bfbbc55..99113ccba15a3276e191b8942c72929334189c37:/Makefile.in">diff to current</a></td>
+</tr>
+<tr class="dark">
+<td title="5 years ago"><i>2006-02-24</i></td>
+<td class="author">Jan Wielemaker</td><td><a class="list subject" href="http://www.swi-prolog.org/git/packages/http.git/commit/2619c9ebf9fa325ded7e9bd84f6ecd4365e2472c">* Added http_error.pl</a> <span class="refs"> <span class="tag" title="tags/V5.6.6"><a href="http://www.swi-prolog.org/git/packages/http.git/history/refs/tags/V5.6.6">V5.6.6</a></span> <span class="tag" title="tags/V5.6.7"><a href="http://www.swi-prolog.org/git/packages/http.git/history/refs/tags/V5.6.7">V5.6.7</a></span> <span class="tag" title="tags/V5.6.8"><a href="http://www.swi-prolog.org/git/packages/http.git/history/refs/tags/V5.6.8">V5.6.8</a></span></span></td>
+<td class="link"><a href="http://www.swi-prolog.org/git/packages/http.git/blob/2619c9ebf9fa325ded7e9bd84f6ecd4365e2472c:/Makefile.in">blob</a> | <a href="http://www.swi-prolog.org/git/packages/http.git/commitdiff/2619c9ebf9fa325ded7e9bd84f6ecd4365e2472c">commitdiff</a> | <a href="http://www.swi-prolog.org/git/packages/http.git/blobdiff/2619c9ebf9fa325ded7e9bd84f6ecd4365e2472c..99113ccba15a3276e191b8942c72929334189c37:/Makefile.in">diff to current</a></td>
+</tr>
+<tr class="light">
+<td title="5 years ago"><i>2006-02-24</i></td>
+<td class="author">Jan Wielemaker</td><td><a class="list subject" href="http://www.swi-prolog.org/git/packages/http.git/commit/90936b488978a183efb07496980288bbef76a782">* Added session management library</a></td>
+<td class="link"><a href="http://www.swi-prolog.org/git/packages/http.git/blob/90936b488978a183efb07496980288bbef76a782:/Makefile.in">blob</a> | <a href="http://www.swi-prolog.org/git/packages/http.git/commitdiff/90936b488978a183efb07496980288bbef76a782">commitdiff</a> | <a href="http://www.swi-prolog.org/git/packages/http.git/blobdiff/90936b488978a183efb07496980288bbef76a782..99113ccba15a3276e191b8942c72929334189c37:/Makefile.in">diff to current</a></td>
+</tr>
+<tr class="dark">
+<td title="5 years ago"><i>2006-02-23</i></td>
+<td class="author">Jan Wielemaker</td><td><a class="list subject" href="http://www.swi-prolog.org/git/packages/http.git/commit/49d2c0d81d4e47329ba3c40c9e07af6a71f63986">* Working on session management</a></td>
+<td class="link"><a href="http://www.swi-prolog.org/git/packages/http.git/blob/49d2c0d81d4e47329ba3c40c9e07af6a71f63986:/Makefile.in">blob</a> | <a href="http://www.swi-prolog.org/git/packages/http.git/commitdiff/49d2c0d81d4e47329ba3c40c9e07af6a71f63986">commitdiff</a> | <a href="http://www.swi-prolog.org/git/packages/http.git/blobdiff/49d2c0d81d4e47329ba3c40c9e07af6a71f63986..99113ccba15a3276e191b8942c72929334189c37:/Makefile.in">diff to current</a></td>
+</tr>
+<tr class="light">
+<td title="6 years ago"><i>2005-09-28</i></td>
+<td class="author">Jan Wielemaker</td><td><a class="list subject" href="http://www.swi-prolog.org/git/packages/http.git/commit/b7dde2a100c322d812d1d6841c4ea54a1d9911e6">* Added ln-install</a> <span class="refs"> <span class="tag" title="tags/V5.5.33"><a href="http://www.swi-prolog.org/git/packages/http.git/history/refs/tags/V5.5.33">V5.5.33</a></span> <span class="tag" title="tags/V5.5.34"><a href="http://www.swi-prolog.org/git/packages/http.git/history/refs/tags/V5.5.34">V5.5.34</a></span></span></td>
+<td class="link"><a href="http://www.swi-prolog.org/git/packages/http.git/blob/b7dde2a100c322d812d1d6841c4ea54a1d9911e6:/Makefile.in">blob</a> | <a href="http://www.swi-prolog.org/git/packages/http.git/commitdiff/b7dde2a100c322d812d1d6841c4ea54a1d9911e6">commitdiff</a> | <a href="http://www.swi-prolog.org/git/packages/http.git/blobdiff/b7dde2a100c322d812d1d6841c4ea54a1d9911e6..99113ccba15a3276e191b8942c72929334189c37:/Makefile.in">diff to current</a></td>
+</tr>
+<tr class="dark">
+<td title="6 years ago"><i>2005-09-28</i></td>
+<td class="author">Jan Wielemaker</td><td><a class="list subject" href="http://www.swi-prolog.org/git/packages/http.git/commit/24b8573d71b1fb3fbfa737f2115f38df13f4435e">* Added target ln-install</a></td>
+<td class="link"><a href="http://www.swi-prolog.org/git/packages/http.git/blob/24b8573d71b1fb3fbfa737f2115f38df13f4435e:/Makefile.in">blob</a> | <a href="http://www.swi-prolog.org/git/packages/http.git/commitdiff/24b8573d71b1fb3fbfa737f2115f38df13f4435e">commitdiff</a> | <a href="http://www.swi-prolog.org/git/packages/http.git/blobdiff/24b8573d71b1fb3fbfa737f2115f38df13f4435e..99113ccba15a3276e191b8942c72929334189c37:/Makefile.in">diff to current</a></td>
+</tr>
+<tr class="light">
+<td title="6 years ago"><i>2005-05-11</i></td>
+<td class="author">Jan Wielemaker</td><td><a class="list subject" href="http://www.swi-prolog.org/git/packages/http.git/commit/43313c2ec4f1efa53ad9bde31212bb79e52ce007">* Bug#43: $(DESTDIR) to remove following /</a> <span class="refs"> <span class="tag" title="tags/V5.5.17"><a href="http://www.swi-prolog.org/git/packages/http.git/history/refs/tags/V5.5.17">V5.5.17</a></span> <span class="tag" title="tags/V5.5.18"><a href="http://www.swi-prolog.org/git/packages/http.git/history/refs/tags/V5.5.18">V5.5.18</a></span> <span class="tag" title="tags/V5.5.19"><a href="http://www.swi-prolog.org/git/packages/http.git/history/refs/tags/V5.5.19">V5.5.19</a></span> <span class="tag" title="tags/V5.5.20"><a href="http://www.swi-prolog.org/git/packages/http.git/history/refs/tags/V5.5.20">V5.5.20</a></span> <span class="tag" title="tags/V5.5.21"><a href="http://www.swi-prolog.org/git/packages/http.git/history/refs/tags/V5.5.21">V5.5.21</a></span> <span class="tag" title="tags/V5.5.22"><a href="http://www.swi-prolog.org/git/packages/http.git/history/refs/tags/V5.5.22">V5.5.22</a></span> <span class="tag" title="tags/V5.5.23"><a href="http://www.swi-prolog.org/git/packages/http.git/history/refs/tags/V5.5.23">V5.5.23</a></span></span></td>
+<td class="link"><a href="http://www.swi-prolog.org/git/packages/http.git/blob/43313c2ec4f1efa53ad9bde31212bb79e52ce007:/Makefile.in">blob</a> | <a href="http://www.swi-prolog.org/git/packages/http.git/commitdiff/43313c2ec4f1efa53ad9bde31212bb79e52ce007">commitdiff</a> | <a href="http://www.swi-prolog.org/git/packages/http.git/blobdiff/43313c2ec4f1efa53ad9bde31212bb79e52ce007..99113ccba15a3276e191b8942c72929334189c37:/Makefile.in">diff to current</a></td>
+</tr>
+<tr class="dark">
+<td title="6 years ago"><i>2005-01-30</i></td>
+<td class="author">Jan Wielemaker</td><td><a class="list subject" href="http://www.swi-prolog.org/git/packages/http.git/commit/8923ed620c99dc738104d7c0c7efb12a929f8f1b">* DESTDIR</a> <span class="refs"> <span class="tag" title="tags/V5.5.5"><a href="http://www.swi-prolog.org/git/packages/http.git/history/refs/tags/V5.5.5">V5.5.5</a></span></span></td>
+<td class="link"><a href="http://www.swi-prolog.org/git/packages/http.git/blob/8923ed620c99dc738104d7c0c7efb12a929f8f1b:/Makefile.in">blob</a> | <a href="http://www.swi-prolog.org/git/packages/http.git/commitdiff/8923ed620c99dc738104d7c0c7efb12a929f8f1b">commitdiff</a> | <a href="http://www.swi-prolog.org/git/packages/http.git/blobdiff/8923ed620c99dc738104d7c0c7efb12a929f8f1b..99113ccba15a3276e191b8942c72929334189c37:/Makefile.in">diff to current</a></td>
+</tr>
+<tr class="light">
+<td title="6 years ago"><i>2005-01-30</i></td>
+<td class="author">Jan Wielemaker</td><td><a class="list subject" href="http://www.swi-prolog.org/git/packages/http.git/commit/d5ac0afe11de5e2b6254686fb3500a7bb9e357df">* Support make install DESTDIR=</a></td>
+<td class="link"><a href="http://www.swi-prolog.org/git/packages/http.git/blob/d5ac0afe11de5e2b6254686fb3500a7bb9e357df:/Makefile.in">blob</a> | <a href="http://www.swi-prolog.org/git/packages/http.git/commitdiff/d5ac0afe11de5e2b6254686fb3500a7bb9e357df">commitdiff</a> | <a href="http://www.swi-prolog.org/git/packages/http.git/blobdiff/d5ac0afe11de5e2b6254686fb3500a7bb9e357df..99113ccba15a3276e191b8942c72929334189c37:/Makefile.in">diff to current</a></td>
+</tr>
+<tr class="dark">
+<td title="7 years ago"><i>2004-09-21</i></td>
+<td class="author">Jan Wielemaker</td><td><a class="list subject" href="http://www.swi-prolog.org/git/packages/http.git/commit/8476366b428d7987378f190608c9d6b328b14dfc">* Putting 5.4.0 on the stable branch</a> <span class="refs"> <span class="tag" title="tags/V5.4.0"><a href="http://www.swi-prolog.org/git/packages/http.git/history/refs/tags/V5.4.0">V5.4.0</a></span></span></td>
+<td class="link"><a href="http://www.swi-prolog.org/git/packages/http.git/blob/8476366b428d7987378f190608c9d6b328b14dfc:/Makefile.in">blob</a> | <a href="http://www.swi-prolog.org/git/packages/http.git/commitdiff/8476366b428d7987378f190608c9d6b328b14dfc">commitdiff</a> | <a href="http://www.swi-prolog.org/git/packages/http.git/blobdiff/8476366b428d7987378f190608c9d6b328b14dfc..99113ccba15a3276e191b8942c72929334189c37:/Makefile.in">diff to current</a></td>
+</tr>
+<tr class="light">
+<td title="8 years ago"><i>2002-12-23</i></td>
+<td class="author">Jan Wielemaker</td><td><a class="list subject" href="http://www.swi-prolog.org/git/packages/http.git/commit/55aa0c22707baae3229a2fb514ac8f1cfef871f9">* Added a readme</a> <span class="refs"> <span class="tag" title="tags/V5.1.5"><a href="http://www.swi-prolog.org/git/packages/http.git/history/refs/tags/V5.1.5">V5.1.5</a></span></span></td>
+<td class="link"><a href="http://www.swi-prolog.org/git/packages/http.git/blob/55aa0c22707baae3229a2fb514ac8f1cfef871f9:/Makefile.in">blob</a> | <a href="http://www.swi-prolog.org/git/packages/http.git/commitdiff/55aa0c22707baae3229a2fb514ac8f1cfef871f9">commitdiff</a> | <a href="http://www.swi-prolog.org/git/packages/http.git/blobdiff/55aa0c22707baae3229a2fb514ac8f1cfef871f9..99113ccba15a3276e191b8942c72929334189c37:/Makefile.in">diff to current</a></td>
+</tr>
+<tr class="dark">
+<td title="8 years ago"><i>2002-12-23</i></td>
+<td class="author">Jan Wielemaker</td><td><a class="list subject" href="http://www.swi-prolog.org/git/packages/http.git/commit/32eaea5a93723f50dcf2a6be1d029610f3ed429b">* Added Prolog-based HTTP server stuff</a></td>
+<td class="link"><a href="http://www.swi-prolog.org/git/packages/http.git/blob/32eaea5a93723f50dcf2a6be1d029610f3ed429b:/Makefile.in">blob</a> | <a href="http://www.swi-prolog.org/git/packages/http.git/commitdiff/32eaea5a93723f50dcf2a6be1d029610f3ed429b">commitdiff</a> | <a href="http://www.swi-prolog.org/git/packages/http.git/blobdiff/32eaea5a93723f50dcf2a6be1d029610f3ed429b..99113ccba15a3276e191b8942c72929334189c37:/Makefile.in">diff to current</a></td>
+</tr>
+<tr>
+<td colspan="4"></td>
+</tr>
+</table>
+<div class="page_footer">
+<div class="page_footer_text">The SWI-Prolog HTTP server and client libraries</div>
+<a class="rss_logo" title="history of Makefile.in RSS feed" href="http://www.swi-prolog.org/git/packages/http.git/rss?f=Makefile.in">RSS</a>
+<a class="rss_logo" title="history of Makefile.in Atom feed" href="http://www.swi-prolog.org/git/packages/http.git/atom?f=Makefile.in">Atom</a>
+</div>
+<hr>
+<p>
+<img src="/icons/star.gif"/>
+<a href="/git.html">Further information about the SWI-Prolog GIT repositories</a>
+
+<script type="text/javascript" src="/git/static/gitweb.js"></script>
+</body>
+</html>
