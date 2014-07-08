@@ -1,0 +1,86 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#000000"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.example.bt.MainActivity$PlaceholderFragment" >
+
+    <Button
+        android:id="@+id/visible"
+        android:layout_width="80dp"
+        android:layout_height="50dp"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/verificar"
+        android:layout_marginTop="20dp"
+        android:background="#AAAAAA"
+        android:clickable="true"
+        android:onClick="Visible"
+        android:text="@string/visible"
+        android:textColor="#000000" />
+
+    <ListView
+        android:id="@+id/listView1"
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:layout_alignLeft="@+id/visible"
+        android:layout_below="@+id/escanear"
+        android:layout_marginTop="27dp"
+        android:background="#888888"
+        android:alpha="0.8" >
+
+    </ListView>
+
+    <Button
+        android:id="@+id/verificar"
+        style="?android:attr/buttonStyleSmall"
+        android:layout_width="80dp"
+        android:layout_height="50dp"
+        android:layout_alignLeft="@+id/visible"
+        android:layout_alignParentTop="true"
+        android:background="#AAAAAA"
+        android:onClick="Verificar"
+        android:text="@string/verificar"
+        android:textColor="#000000" />
+
+    <Button
+        android:id="@+id/escanear"
+        style="?android:attr/buttonStyleSmall"
+        android:layout_width="80dp"
+        android:layout_height="50dp"
+        android:layout_alignTop="@+id/visible"
+        android:layout_marginLeft="17dp"
+        android:layout_toRightOf="@+id/visible"
+        android:background="#AAAAAA"
+        android:onClick="Devices"
+        android:text="@string/escanear"
+        android:textColor="#000000" />
+
+    <Button
+        android:id="@+id/listar"
+        style="?android:attr/buttonStyleSmall"
+        android:layout_width="80dp"
+        android:layout_height="50dp"
+        android:layout_above="@+id/listView1"
+        android:layout_marginLeft="15dp"
+        android:layout_toRightOf="@+id/escanear"
+        android:text="@string/listar"
+        android:onClick="Listar"
+        android:background="#AAAAAA"
+        android:textColor="#000000" />
+
+    <CheckBox
+        android:id="@+id/activo"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignRight="@+id/listar"
+        android:layout_alignTop="@+id/verificar"
+        android:clickable="true"
+        android:onClick="Activar"
+        android:text="@string/activo"
+        android:textColor="#AAAAAA" />
+
+</RelativeLayout>

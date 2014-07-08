@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">BT</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+	<string name="activo">Bluetooth</string>
+	<string name="devices">Dispositivos</string>
+	<string name="visible">Visible</string>
+	<string name="verificar">Verificar</string>
+	<string name="escanear">Escanear</string>
+	<string name="listar">Listar</string>
+</resources>
