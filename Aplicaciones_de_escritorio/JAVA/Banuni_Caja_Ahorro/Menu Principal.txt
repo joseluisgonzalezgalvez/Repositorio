@@ -1,0 +1,16 @@
+Menu Principal
+
+Esta interfaz permite la manipulación de datos sobre clientes incritos y 
+el ingreso de nuevo al sistema de prestamo la "CAJA FELIZ ".
+
+Este es un sistema que cuenta con todas las garantías y asesorías legales
+en el tema de financiamiento crediticio.
+
+La interfaz se acomoda de acuerdo con lo que el usuario desea que haga desde un 
+alta de un nuevo cliente, un abono, hasta un prestamo en efectivo. Debido a que
+el sistema es un nuevo modelo de creditos y financiamientos esta se difunde como 
+una Institucion que no de depende unicamente de los intereses.
+
+Para saber mas acerca del funcionamiento  "CAJA FELIZ ", favor de ingresar  al
+modulo d einformacion de esta ventana.
+ 

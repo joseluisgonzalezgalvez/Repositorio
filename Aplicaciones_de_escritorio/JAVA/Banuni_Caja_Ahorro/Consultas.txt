@@ -1,0 +1,21 @@
+Consultas
+
+Este panel tiene dos modalidades de uso:
+
+La primera opción:
+
+Buscar:
+
+Permite generar una consulta de datos por cualquiera de los
+siguiente parametros:
+		* Por cliente,
+		* Por Prestamo,
+		* Por estado,
+		*Id de Cliente.
+
+La segunda opción:
+
+Mostrar todo:
+	Permite la visualizacion de todos los datos.
+
+		

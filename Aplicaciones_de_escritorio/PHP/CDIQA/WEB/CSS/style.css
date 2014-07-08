@@ -1,0 +1,99 @@
+.body_page{			
+	margin:0;
+	padding:0;
+	font-family:"Bell MT";
+}
+
+#div_head{
+	background:#000099;
+	height:auto;
+}
+#div_logo{
+	height:250px;
+	width:250px;
+	float:left;
+}
+#div_logo img{
+	margin-top:20px;
+	width:220px;
+	height:220px;
+	border-radius: 10px 10px;
+}
+
+#div_main{
+	height:250px;
+	width:700px;
+}		
+
+#div_main .div_titulo{
+	background:-webkit-linear-gradient(#DDD,white);
+	height:150px;
+	width:550px;
+	position:absolute;
+	margin-top:20px;
+	margin-left:80px;
+	border-radius: 10px 10px;
+
+	text-align:center;
+	font-size:24px;
+}
+
+#div_main .div_titulo p{
+	padding-top:15px;
+	font-size:25px;
+	font-family:"Bell MT";
+}
+
+#div_presentacion{
+	height:250px;
+	width:950px;
+}
+#div_main .div_blue{
+	position:absolute;
+	margin-top:180px;
+	margin-left:160px;
+	width:470px;
+	height:10px;
+	background:-webkit-linear-gradient(#006,#006,white);
+	border-radius:10px 10px;
+}
+
+#div_main .div_red{
+	position:absolute;
+	margin-top:200px;
+	margin-left:210px;
+	width:420px;
+	height:10px;
+	background:-webkit-linear-gradient(#D00,#D00,white);
+	border-radius:10px 10px;
+}
+
+#div_contenido{
+	margin-right:40px;
+	width:880px;
+	height:350px;
+	background:silver;
+	border-radius:0px 0px 10px 10px;
+}
+
+#div_login{
+	width:450px;
+	height:300px;
+	background:white;
+	border-radius:10px 10px;
+	margin-top:20px;
+	margin-left:400px;
+	position:absolute;
+	border:1px solid silver;
+}
+
+#div_login .label_title{
+	font-size:18px;
+	position:absolute;
+	margin:10px;
+}
+
+#div_login table{
+	
+	margin-top:50px;
+}

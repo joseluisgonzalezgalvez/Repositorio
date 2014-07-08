@@ -1,0 +1,28 @@
+Acciones 
+
+Este panel cuenta con un amplia gama de opciones
+de manipulación en la información de clientes
+de nuevo registro o incluso ya existentes
+
+Botones:
+	
+     Guardar: muestra las casillas de llenado en blanco 
+              para una nueva insercion de datos.
+		
+	
+     Modificar: permite la modificaciñon de informacion en cual
+	     quiera de las campos de imformación 
+               que desee cambiar.
+	
+	
+      Eliminar: permite dar de baja los registros de un cliente del 
+	     sistema.
+
+      Limpiar: Vuelve las cajas de testo en blanco por si se desse 
+	    realizar  una nueva inserción.
+      Imprimir lista: genera la impresión de todos los datos del clientes.
+      
+      Imprimir Cliente: genera la impresion de los datos de un cliente en 
+	            especifico. 		
+ 
+ 

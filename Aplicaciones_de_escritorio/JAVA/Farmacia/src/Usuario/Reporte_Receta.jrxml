@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jasperReport xmlns="http://jasperreports.sourceforge.net/jasperreports" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://jasperreports.sourceforge.net/jasperreports http://jasperreports.sourceforge.net/xsd/jasperreport.xsd" name="report name" pageWidth="595" pageHeight="842" columnWidth="535" leftMargin="20" rightMargin="20" topMargin="20" bottomMargin="20">
+	<property name="ireport.zoom" value="1.0"/>
+	<property name="ireport.x" value="0"/>
+	<property name="ireport.y" value="0"/>
+	<queryString>
+		<![CDATA[select * from Receta;]]>
+	</queryString>
+	<field name="Id_Receta" class="java.lang.Integer"/>
+	<field name="Id_Empleado" class="java.lang.Integer"/>
+	<field name="Id_Paciente" class="java.lang.Integer"/>
+	<field name="Descripcion" class="java.lang.String"/>
+	<title>
+		<band height="110" splitType="Stretch">
+			<staticText>
+				<reportElement x="211" y="10" width="151" height="21"/>
+				<textElement>
+					<font size="16"/>
+				</textElement>
+				<text><![CDATA[Farmacia del Istmo]]></text>
+			</staticText>
+			<staticText>
+				<reportElement x="225" y="42" width="122" height="24"/>
+				<textElement>
+					<font size="16"/>
+				</textElement>
+				<text><![CDATA[Sucursal Ixtepec]]></text>
+			</staticText>
+			<staticText>
+				<reportElement x="123" y="81" width="344" height="23"/>
+				<textElement>
+					<font size="16"/>
+				</textElement>
+				<text><![CDATA[Callle Vicente Guerrero Avenida Hidalgo nº 90]]></text>
+			</staticText>
+		</band>
+	</title>
+	<columnHeader>
+		<band height="21">
+			<staticText>
+				<reportElement x="14" y="1" width="61" height="20" backcolor="#CC0000"/>
+				<textElement/>
+				<text><![CDATA[Id_Receta]]></text>
+			</staticText>
+			<staticText>
+				<reportElement x="100" y="1" width="100" height="20" backcolor="#CC0000"/>
+				<textElement/>
+				<text><![CDATA[Id_Empleado]]></text>
+			</staticText>
+			<staticText>
+				<reportElement x="225" y="1" width="100" height="20" backcolor="#CC0000"/>
+				<textElement/>
+				<text><![CDATA[Id_Paciente]]></text>
+			</staticText>
+			<staticText>
+				<reportElement x="347" y="1" width="100" height="20" backcolor="#CC0000"/>
+				<textElement/>
+				<text><![CDATA[Descripcion]]></text>
+			</staticText>
+			<line>
+				<reportElement x="14" y="0" width="522" height="1"/>
+			</line>
+		</band>
+	</columnHeader>
+	<detail>
+		<band height="51" splitType="Stretch">
+			<textField>
+				<reportElement x="14" y="12" width="61" height="20"/>
+				<textElement/>
+				<textFieldExpression><![CDATA[$F{Id_Receta}]]></textFieldExpression>
+			</textField>
+			<textField>
+				<reportElement x="100" y="12" width="100" height="20"/>
+				<textElement/>
+				<textFieldExpression><![CDATA[$F{Id_Empleado}]]></textFieldExpression>
+			</textField>
+			<textField>
+				<reportElement x="225" y="12" width="100" height="20"/>
+				<textElement/>
+				<textFieldExpression><![CDATA[$F{Id_Paciente}]]></textFieldExpression>
+			</textField>
+			<textField>
+				<reportElement x="347" y="12" width="100" height="20"/>
+				<textElement/>
+				<textFieldExpression><![CDATA[$F{Descripcion}]]></textFieldExpression>
+			</textField>
+			<line>
+				<reportElement x="14" y="0" width="100" height="1"/>
+			</line>
+			<line>
+				<reportElement x="14" y="1" width="522" height="1"/>
+			</line>
+			<line>
+				<reportElement x="14" y="37" width="522" height="1"/>
+			</line>
+			<break>
+				<reportElement x="0" y="17" width="100" height="1"/>
+			</break>
+		</band>
+	</detail>
+	<columnFooter>
+		<band height="45" splitType="Stretch">
+			<staticText>
+				<reportElement x="38" y="13" width="37" height="20"/>
+				<textElement/>
+				<text><![CDATA[Pàgina]]></text>
+			</staticText>
+			<textField>
+				<reportElement x="100" y="13" width="100" height="20"/>
+				<textElement/>
+				<textFieldExpression><![CDATA[$V{PAGE_NUMBER}]]></textFieldExpression>
+			</textField>
+			<staticText>
+				<reportElement x="262" y="13" width="38" height="20"/>
+				<textElement/>
+				<text><![CDATA[Fecha]]></text>
+			</staticText>
+			<textField pattern="dd-MMM-yy">
+				<reportElement x="311" y="13" width="100" height="20"/>
+				<textElement/>
+				<textFieldExpression><![CDATA[new java.util.Date()]]></textFieldExpression>
+			</textField>
+		</band>
+	</columnFooter>
+</jasperReport>

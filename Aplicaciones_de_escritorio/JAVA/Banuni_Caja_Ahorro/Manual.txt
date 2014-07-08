@@ -1,0 +1,157 @@
+Para mas complementar Informarcion tambien vease en el manual de usuario  adjunto en el archivo 
+
+BIENVENIDA
+VAPLE te da la más cordial bienvenida. En el presente manual podrás encontrar la
+información pertinente de interés general que te ayudara a tener un control suficiente 
+sobre cómo manejar e instalar el Sistema “Caja Feliz”. La Universidad del Istmo campus 
+Ixtepec asume la responsabilidad como proyecto educativo y tiene como misión contribuir 
+en el ambiente de participación responsable, apertura, libertad, respeto y critica 
+pro-positiva al desarrollo y la difusión del conocimiento y a la información de profesionales 
+e investigadores con calidad humana y académica, que se comprometan en el servicio a los
+ demás por el logro de una sociedad más libre, productiva, justa y solidaria. Durante más de 
+10 años la Universidad del Istmo no solo ha sido agente Gactivo del desarrollo de la región,
+ si no que su colaboración cifrada en las funciones de docencia, investigación, difusión, 
+mejora universitario y trabajo comunitario que sustenta los claros principios de libertad y 
+responsabilidad social.
+
+La libertad de conciencia, la apertura al dialogo entre todas las corrientes ideológicas, la libertad 
+académica de enseñanza e investigación y un sentido profundo y operante de justicia social, han
+ marcado la tradición de aprender, enseñar, pensar, dialogar, y en suma de un actuar propiamente 
+universitario sin dependencia ni ejecución a intereses económicos o políticos de otra índole.
+
+
+
+
+INTRODUCCIÓN
+Caja Feliz fue desarrollado por un grupo de estudiantes (VAPLE), de la Universidad del Istmo 
+campus Ixtepec, usando herramientas como SQL Server 2005, Java, StarUML, entre otros, 
+para el desarrollo del Software, siempre teniendo como meta el hacer un Sistema versátil y completa, 
+para la administración de prestamos la cual contribuya el éxito de la misma.
+Finalmente queremos agradecerle el haber preferido a VAPLE, y le recordamos que nuestros
+ integrantes se encuentran siempre a su disposición para cualquier consulta o sugerencia, sobre la 
+Caja Feliz, así como demás áreas como son administrativas, contabilidad, nomina, computación ,etc. 
+Todo esto con la finalidad de permitirle transformar su gestión de trabajo en resultados efectivos.
+INICIO
+La documentación de Caja Feliz consiste en este Manual de Usuario, en la ayuda electrónica del 
+Sistema y la ayuda electrónica de Windows.
+Este manual contiene la información necesaria para poder instalar y ejecutar el Sistema “Caja Feliz”
+ en su computadora, de acuerdo a las características de su Empresa. Además de hacer un recorrido 
+por las principales opciones del Sistema, para poder configurar el Sistema de manera adecuada es 
+importante que lea los tópicos “Altas, Bajas, Modificaciones, Consultas, Préstamos,  Cobros, Inicio
+ de sesión, proceso de instalación”. Una vez que usted ya haya instalado correctamente el Sistema
+ podrá consultar la ayuda que aparece dentro del Sistema, en el submenú ayuda, localizada en la barra 
+de herramientas, la cual activara automáticamente la ayuda correspondiente a la que usted haya elegido.
+OBJETIVOS DEL MANUAL
+Los objetivos del manual de usuario son:
+Ayudarte a instalar y manejar el sistema “Caja Feliz”
+Proporcionar una guía de los diferentes pasos de la instalación y la ejecución del mismo.
+Descubrir los tipos de usuario/empleados que tiene y los permisos que estos adquieren.
+Proporcionar información detallada, acerca de las funcionalidades que realiza “Caja Feliz”.
+
+COMO USAR EL MANUAL DE “CAJA FELIZ” 
+Requisitos de Hardware y Software
+Para poder instalar y ejecutar el Sistema “Caja Feliz” en su equipo debe tener como mínimo, las 
+siguientes características.
+Sistema operativo Windows seven o vista.
+Procesador de 8.6 GB
+Tarjeta Gráfica de 800MB
+Mínimo 1GB de espacio libre en el Disco duro
+Para instalar y ejecutar el Sistema “Caja Feliz” en su equipo de forma recomendada y obtener un mejor 
+rendimiento entonces, debe tener  las siguientes características.
+Sistema 
+Procesador Dual Core2GB 
+Tarjeta gráfica 256 MB
+10 GB de espacio libre en el disco duro.
+Ediciones de “Caja Feliz”
+El Sistema de gestión de préstamos está disponible en la versión 1.0, la cual no dice que:
+“Caja Feliz Versión 1.0”: Es su primer lanzamiento la cual cumple con las necesidades del cliente, 
+y esta es ideal para aquellas Empresas/Personas que solo necesitan correr el Sistema en sus ordenadores,
+ así como hacer altas, bajas, consultas, etc., pero estas personas no tienen acceso al código fuente.
+Implantación de “Caja Feliz”
+La implantación o puesta en funcionamiento del Sistema de Gestión de Prestamos “Caja Feliz” en 
+su Empresa, más que un proyecto de informática, debe ser vista como un proyecto de negocios que 
+involucra a los usuarios de cada uno de los procesos que se ejecutan en cada departamento de la Empresa.
+Para implementar el Sistema es necesario ejecutar un conjunto de actividades, algunas de la cuales son tipo 
+técnico, pero la mayoría son de tipo funcional. Las actividades más importantes a llevar a cabo son:
+Instalación del Sistema
+Análisis de los procesos actuales de la Empresa
+
+
+CAPITULO 1
+INICIO DEL SISTEMA
+A continuación se citaran una serie de pasos de acuerdo a cada una de las funcionalidades con que cuenta
+ el sistema “Caja Feliz”.
+Paso 1: INICIO DEL SISTEMA
+Como primer paso se corre el Sistema desde el IDE de Java, en este caso se ocupó Eclipse.
+
+Paso 2: INICIO DE SESIÓN EN EL SISTMA
+Posteriormente de haber corrido sistema, primero le aparecerá una ventana, la cual solicitara que el usuario
+ que manejara el sistema, enseguida de la solicitud de la contraseña, terminado esto dar clic sobre el botón
+ que aparece en la parte inferior de ingresar, en caso de que los datos sean correctos, aparecerá en segundos
+ el panel principal del sistema, en caso contrario entonces mandara un mensaje de error, debido a que la 
+contraseña ingresada fue incorrecta. Como se muestra en la figura 1.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figura 1: ventana de acceso al sistema
+
+Ahora se tiene que rellenar cada uno de los campos indicados en la figura 1, como se muestra 
+en la Figura 2, en caso de que la contraseña sea correcta le aparecerá un mensaje como indica la
+ figura 3 y después, aparecerá el panel principal como se muestra en la figura 5, si no entonces
+ significa que la contraseña es incorrecta y le mostrara un mensaje como en la figura 4.
+
+Figura 2: Iniciando Sesión en el Sistema
+
+
+Figura 3: Ventana que indica que la contraseña fue correctamente ingresada
+
+
+Figura 4: Ventana que aparece cuando la contraseña es incorrecta
+
+
+Figura 5: Panel principal del Sistema
+
+Paso 3: Panel principal de Clientes
+Antes de ver el panel principal de clientes usted debe de ir a la barra de herramientas en el menú 
+como se muestra en la figura 6.enseguida de darle clic a la opción clientes entonces se muestra el panel solicitado.
+
+Figura 6: Acceso a Clientes desde el la barra de herramientas
+
+En la figura 7, se encuentra relacionado con los clientes, en donde en la parte inferior derecha se
+ encuentra un submenú en donde aparecen luna opciones adicionales con relacionados con los clientes, 
+en la parte superior derecha se encuentran las diferentes opciones que se pueden realizar, como son, una alta, 
+modificación, eliminar, limpiar, imprimir la lista de los clientes e imprimir los datos de un solo empleado. 
+Además en la parte superior central se puede notar un submenú para hacer diferentes tipos de consultas. 
+También en la parte superior izquierda se muestra una lista de clientes que están dados de alta en el sistema.
+ Y en la parte inferior izquierda se encontrará el submenú con los campos para poder dar de alta a un nuevo cliente.
+
+Figura 7: Panel principal de Clientes
+
+Paso 4: Panel de préstamos
+En la Figura 8, se encuentra los paneles referentes a los préstamos o amortizaciones, se puede notar en el 
+submenú de la parte superior derecha los campos que son necesarios para poder calcular el préstamo, 
+un botón de limpiar las cuadros y un botón que manda a imprimir un reporte , es decir manda una lista de 
+amortización de acuerdo a la modo de préstamo solicitado., además en la parte superior izquierda se 
+encuentra submenú en donde aparece una lista de campos que se tienen que rellenar para poder otorgar
+ el préstamo, también en la parte inferior se muestra un panel en donde aparece una lista de amortizaciones
+ de acuerdo al monto del préstamo otorgado cabe aclarara que aquí ya vienen registradas las fechas en que 
+se tienen que realizar los pagos.
+
+Figura 8: Panel principal de préstamos o amortizaciones
+En la figura 8, se muestra un reporte generado de acuerdo a las amortizaciones del préstamo otorgado
+ anteriormente.
+
+
+Para mas complementar Informarcion tambien vease en el manual de usuario  adjunto en el archivo 
+

@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jasperReport xmlns="http://jasperreports.sourceforge.net/jasperreports" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://jasperreports.sourceforge.net/jasperreports http://jasperreports.sourceforge.net/xsd/jasperreport.xsd" name="Sistema_Idetificador_Retardos" language="groovy" pageWidth="595" pageHeight="842" columnWidth="555" leftMargin="20" rightMargin="20" topMargin="20" bottomMargin="20">
+	<property name="ireport.zoom" value="1.0"/>
+	<property name="ireport.x" value="0"/>
+	<property name="ireport.y" value="0"/>
+	<parameter name="cond" class="java.lang.Integer">
+		<defaultValueExpression><![CDATA[]]></defaultValueExpression>
+	</parameter>
+	<queryString>
+		<![CDATA[Select * from empleado JOIN horas ON empleado.clave=horas.clave_emp
+where empleado.clave=$P{cond};]]>
+	</queryString>
+	<field name="clave" class="java.lang.Integer"/>
+	<field name="nombre" class="java.lang.String"/>
+	<field name="puesto" class="java.lang.String"/>
+	<field name="tipo" class="java.lang.String"/>
+	<field name="clave_emp" class="java.lang.Integer"/>
+	<field name="fecha" class="java.sql.Timestamp"/>
+	<field name="h_ent1" class="java.lang.String"/>
+	<field name="h_ent2" class="java.lang.String"/>
+	<field name="h_ent3" class="java.lang.String"/>
+	<field name="h_sal1" class="java.lang.String"/>
+	<field name="h_sal2" class="java.lang.String"/>
+	<field name="h_sal3" class="java.lang.String"/>
+	<field name="total" class="java.lang.String"/>
+	<field name="clave_hist" class="java.lang.String"/>
+	<background>
+		<band splitType="Stretch"/>
+	</background>
+	<title>
+		<band height="79" splitType="Stretch">
+			<image>
+				<reportElement x="0" y="0" width="119" height="79"/>
+				<imageExpression class="java.lang.String"><![CDATA["C:\\Users\\JOSE LUIS\\Pictures\\imagenes examen POO2\\logo.jpg"]]></imageExpression>
+			</image>
+			<staticText>
+				<reportElement x="310" y="27" width="245" height="52" forecolor="#009900"/>
+				<textElement>
+					<font fontName="Batang" size="44" isBold="true"/>
+				</textElement>
+				<text><![CDATA[UNISTMO]]></text>
+			</staticText>
+			<staticText>
+				<reportElement x="310" y="0" width="245" height="27" forecolor="#000000"/>
+				<textElement>
+					<font fontName="Batang" size="12" isBold="true"/>
+				</textElement>
+				<text><![CDATA[Sistema Identificador de Retardos]]></text>
+			</staticText>
+		</band>
+	</title>
+	<pageHeader>
+		<band height="77" splitType="Stretch">
+			<textField>
+				<reportElement x="21" y="34" width="98" height="20"/>
+				<textElement/>
+				<textFieldExpression class="java.lang.String"><![CDATA[$F{nombre}]]></textFieldExpression>
+			</textField>
+			<textField>
+				<reportElement x="21" y="14" width="98" height="20"/>
+				<textElement/>
+				<textFieldExpression class="java.lang.Integer"><![CDATA[$F{clave}]]></textFieldExpression>
+			</textField>
+			<textField>
+				<reportElement x="455" y="14" width="100" height="20"/>
+				<textElement/>
+				<textFieldExpression class="java.lang.String"><![CDATA[$F{tipo}]]></textFieldExpression>
+			</textField>
+			<textField>
+				<reportElement x="455" y="34" width="100" height="20"/>
+				<textElement/>
+				<textFieldExpression class="java.lang.String"><![CDATA[$F{puesto}]]></textFieldExpression>
+			</textField>
+		</band>
+	</pageHeader>
+	<columnHeader>
+		<band height="21" splitType="Stretch">
+			<staticText>
+				<reportElement x="26" y="0" width="100" height="20"/>
+				<textElement/>
+				<text><![CDATA[fecha]]></text>
+			</staticText>
+			<staticText>
+				<reportElement x="126" y="1" width="55" height="20"/>
+				<textElement/>
+				<text><![CDATA[E1]]></text>
+			</staticText>
+			<staticText>
+				<reportElement x="235" y="1" width="57" height="20"/>
+				<textElement/>
+				<text><![CDATA[E2]]></text>
+			</staticText>
+			<staticText>
+				<reportElement x="353" y="0" width="55" height="20"/>
+				<textElement/>
+				<text><![CDATA[E3]]></text>
+			</staticText>
+			<staticText>
+				<reportElement x="181" y="1" width="54" height="20"/>
+				<textElement/>
+				<text><![CDATA[S1]]></text>
+			</staticText>
+			<staticText>
+				<reportElement x="292" y="0" width="61" height="20"/>
+				<textElement/>
+				<text><![CDATA[S2]]></text>
+			</staticText>
+			<staticText>
+				<reportElement x="408" y="0" width="61" height="20"/>
+				<textElement/>
+				<text><![CDATA[S3]]></text>
+			</staticText>
+			<staticText>
+				<reportElement x="469" y="0" width="86" height="20"/>
+				<textElement/>
+				<text><![CDATA[Total de horas]]></text>
+			</staticText>
+		</band>
+	</columnHeader>
+	<detail>
+		<band height="26" splitType="Stretch">
+			<textField>
+				<reportElement x="26" y="0" width="100" height="20"/>
+				<textElement/>
+				<textFieldExpression class="java.sql.Timestamp"><![CDATA[$F{fecha}]]></textFieldExpression>
+			</textField>
+			<textField>
+				<reportElement x="126" y="0" width="55" height="20"/>
+				<textElement/>
+				<textFieldExpression class="java.lang.String"><![CDATA[$F{h_ent1}]]></textFieldExpression>
+			</textField>
+			<textField>
+				<reportElement x="235" y="0" width="57" height="20"/>
+				<textElement/>
+				<textFieldExpression class="java.lang.String"><![CDATA[$F{h_ent2}]]></textFieldExpression>
+			</textField>
+			<textField>
+				<reportElement x="353" y="0" width="55" height="20"/>
+				<textElement/>
+				<textFieldExpression class="java.lang.String"><![CDATA[$F{h_ent3}]]></textFieldExpression>
+			</textField>
+			<textField>
+				<reportElement x="181" y="0" width="54" height="20"/>
+				<textElement/>
+				<textFieldExpression class="java.lang.String"><![CDATA[$F{h_sal1}]]></textFieldExpression>
+			</textField>
+			<textField>
+				<reportElement x="292" y="0" width="61" height="20"/>
+				<textElement/>
+				<textFieldExpression class="java.lang.String"><![CDATA[$F{h_sal2}]]></textFieldExpression>
+			</textField>
+			<textField>
+				<reportElement x="408" y="0" width="61" height="20"/>
+				<textElement/>
+				<textFieldExpression class="java.lang.String"><![CDATA[$F{h_sal3}]]></textFieldExpression>
+			</textField>
+			<textField>
+				<reportElement x="469" y="0" width="86" height="20"/>
+				<textElement/>
+				<textFieldExpression class="java.lang.String"><![CDATA[$F{total}]]></textFieldExpression>
+			</textField>
+		</band>
+	</detail>
+	<columnFooter>
+		<band height="45" splitType="Stretch"/>
+	</columnFooter>
+	<pageFooter>
+		<band height="54" splitType="Stretch"/>
+	</pageFooter>
+	<summary>
+		<band height="42" splitType="Stretch"/>
+	</summary>
+</jasperReport>

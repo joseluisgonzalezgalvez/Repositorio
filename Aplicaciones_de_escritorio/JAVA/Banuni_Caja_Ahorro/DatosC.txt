@@ -1,0 +1,9 @@
+Datos de cliente
+
+Permite la datos validos a sistema en diferentes modalidades
+
+	*Aval 
+	*Propiedad
+	*Vehículo
+
+estos para una mejor administraciòn en los mismo.

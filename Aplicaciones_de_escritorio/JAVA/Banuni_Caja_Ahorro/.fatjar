@@ -1,0 +1,14 @@
+#Fat Jar Configuration File
+#Sun Jan 15 07:12:08 CST 2012
+onejar.license.required=true
+manifest.classpath=
+manifest.removesigners=true
+onejar.checkbox=false
+jarname=Banuni_fat.jar
+manifest.mergeall=true
+manifest.mainclass=Usuario.TestUsuario
+manifest.file=<createnew>
+jarname.isextern=false
+onejar.expand=
+excludes=
+includes=

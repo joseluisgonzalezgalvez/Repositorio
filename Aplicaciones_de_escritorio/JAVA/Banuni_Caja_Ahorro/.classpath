@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="C:/Users/JOSE LUIS/Documents/SQL Server Management Studio Express/JARS/jcalendar-1.3.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/JOSE LUIS/Documents/SQL Server Management Studio Express/JARS/looks-2.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/JOSE LUIS/Documents/SQL Server Management Studio Express/JARS/DateChooserDemo.jar"/>
+	<classpathentry kind="lib" path="C:/Users/JOSE LUIS/Documents/SQL Server Management Studio Express/JARS/DateChooser.jar"/>
+	<classpathentry kind="lib" path="C:/Users/JOSE LUIS/Documents/SQL Server Management Studio Express/JARS/sqljdbc4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/JOSE LUIS/Documents/SQL Server Management Studio Express/JARS/substance.jar"/>
+	<classpathentry kind="lib" path="C:/Users/JOSE LUIS/Documents/SQL Server Management Studio Express/JARS/lipstikLF-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/JOSE LUIS/Desktop/librerias/ant-1.7.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/JOSE LUIS/Desktop/librerias/antlr-2.7.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/JOSE LUIS/Desktop/librerias/asm.jar"/>
+	<classpathentry kind="lib" path="C:/Users/JOSE LUIS/Desktop/librerias/asm-attrs.jar"/>
+	<classpathentry kind="lib" path="C:/Users/JOSE LUIS/Desktop/librerias/barbecue-1.5-beta1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/JOSE LUIS/Desktop/librerias/barcode4j-2.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/JOSE LUIS/Desktop/librerias/batik-anim.jar"/>
+	<classpathentry kind="lib" path="C:/Users/JOSE LUIS/Desktop/librerias/batik-awt-util.jar"/>
+	<classpathentry kind="lib" path="C:/Users/JOSE LUIS/Desktop/librerias/batik-bridge.jar"/>
+	<classpathentry kind="lib" path="C:/Users/JOSE LUIS/Desktop/librerias/batik-css.jar"/>
+	<classpathentry kind="lib" path="C:/Users/JOSE LUIS/Desktop/librerias/batik-dom.jar"/>
+	<classpathentry kind="lib" path="C:/Users/JOSE LUIS/Desktop/librerias/batik-ext.jar"/>
+	<classpathentry kind="lib" path="C:/Users/JOSE LUIS/Desktop/librerias/batik-gvt.jar"/>
+	<classpathentry kind="lib" path="C:/Users/JOSE LUIS/Desktop/librerias/batik-parser.jar"/>
+	<classpathentry kind="lib" path="C:/Users/JOSE LUIS/Desktop/librerias/batik-script.jar"/>
+	<classpathentry kind="lib" path="C:/Users/JOSE LUIS/Desktop/librerias/batik-svg-dom.jar"/>
+	<classpathentry kind="lib" path="C:/Users/JOSE LUIS/Desktop/librerias/batik-svggen.jar"/>
+	<classpathentry kind="lib" path="C:/Users/JOSE LUIS/Desktop/librerias/batik-util.jar"/>
+	<classpathentry kind="lib" path="C:/Users/JOSE LUIS/Desktop/librerias/batik-xml.jar"/>
+	<classpathentry kind="lib" path="C:/Users/JOSE LUIS/Desktop/librerias/bcel-5.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/JOSE LUIS/Desktop/librerias/bsh-2.0b4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/JOSE LUIS/Desktop/librerias/castor-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/JOSE LUIS/Desktop/librerias/cglib-2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/JOSE LUIS/Desktop/librerias/cincom-jr-xmla.jar"/>
+	<classpathentry kind="lib" path="C:/Users/JOSE LUIS/Desktop/librerias/com-jaspersoft-ireport.jar"/>
+	<classpathentry kind="lib" path="C:/Users/JOSE LUIS/Desktop/librerias/com-jaspersoft-ireport-addons.jar"/>
+	<classpathentry kind="lib" path="C:/Users/JOSE LUIS/Desktop/librerias/com-jaspersoft-ireport-components.jar"/>
+	<classpathentry kind="lib" path="C:/Users/JOSE LUIS/Desktop/librerias/com-jaspersoft-ireport-designer-standalone.jar"/>
+	<classpathentry kind="lib" path="C:/Users/JOSE LUIS/Desktop/librerias/com-jaspersoft-ireport-heartbeat.jar"/>
+	<classpathentry kind="lib" path="C:/Users/JOSE LUIS/Desktop/librerias/com-jaspersoft-ireport-jasperserver.jar"/>
+	<classpathentry kind="lib" path="C:/Users/JOSE LUIS/Desktop/librerias/com-jaspersoft-ireport-samples.jar"/>
+	<classpathentry kind="lib" path="C:/Users/JOSE LUIS/Desktop/librerias/com-jaspersoft-jrx.jar"/>
+	<classpathentry kind="lib" path="C:/Users/JOSE LUIS/Desktop/librerias/commons-beanutils-1.8.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/JOSE LUIS/Desktop/librerias/commons-collections-3.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/JOSE LUIS/Desktop/librerias/commons-dbcp-1.2.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/JOSE LUIS/Desktop/librerias/commons-digester-1.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/JOSE LUIS/Desktop/librerias/commons-javaflow-20060411.jar"/>
+	<classpathentry kind="lib" path="C:/Users/JOSE LUIS/Desktop/librerias/commons-logging-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/JOSE LUIS/Desktop/librerias/commons-math-1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/JOSE LUIS/Desktop/librerias/commons-pool-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/JOSE LUIS/Desktop/librerias/commons-vfs-1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/JOSE LUIS/Desktop/librerias/dom4j-1.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/JOSE LUIS/Desktop/librerias/ehcache-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/JOSE LUIS/Desktop/librerias/eigenbase-properties-1.1.0.10924.jar"/>
+	<classpathentry kind="lib" path="C:/Users/JOSE LUIS/Desktop/librerias/eigenbase-resgen-1.3.0.11873.jar"/>
+	<classpathentry kind="lib" path="C:/Users/JOSE LUIS/Desktop/librerias/eigenbase-xom-1.3.0.11999.jar"/>
+	<classpathentry kind="lib" path="C:/Users/JOSE LUIS/Desktop/librerias/ejb3-persistence.jar"/>
+	<classpathentry kind="lib" path="C:/Users/JOSE LUIS/Desktop/librerias/groovy-all-1.7.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/JOSE LUIS/Desktop/librerias/hibernate3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/JOSE LUIS/Desktop/librerias/hibernate-annotations.jar"/>
+	<classpathentry kind="lib" path="C:/Users/JOSE LUIS/Desktop/librerias/hibernate-commons-annotations.jar"/>
+	<classpathentry kind="lib" path="C:/Users/JOSE LUIS/Desktop/librerias/hsqldb-1.8.0-10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/JOSE LUIS/Desktop/librerias/iText-2.1.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/JOSE LUIS/Desktop/librerias/iTextAsian.jar"/>
+	<classpathentry kind="lib" path="C:/Users/JOSE LUIS/Desktop/librerias/jakarta-bcel-20050813.jar"/>
+	<classpathentry kind="lib" path="C:/Users/JOSE LUIS/Desktop/librerias/jasperreports-3.7.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/JOSE LUIS/Desktop/librerias/jasperreports-chart-themes-3.7.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/JOSE LUIS/Desktop/librerias/jasperreports-extensions-3.5.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/JOSE LUIS/Desktop/librerias/jasperreports-fonts-3.7.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/JOSE LUIS/Desktop/librerias/javacup.jar"/>
+	<classpathentry kind="lib" path="C:/Users/JOSE LUIS/Desktop/librerias/javassist-3.4.GA.jar"/>
+	<classpathentry kind="lib" path="C:/Users/JOSE LUIS/Desktop/librerias/jaxen-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/JOSE LUIS/Desktop/librerias/jcommon-1.0.15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/JOSE LUIS/Desktop/librerias/jdt-compiler-3.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/JOSE LUIS/Desktop/librerias/jfreechart-1.0.12.jar"/>
+	<classpathentry kind="lib" path="C:/Users/JOSE LUIS/Desktop/librerias/jpa.jar"/>
+	<classpathentry kind="lib" path="C:/Users/JOSE LUIS/Desktop/librerias/js_activation-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/JOSE LUIS/Desktop/librerias/js_axis-1.4patched.jar"/>
+	<classpathentry kind="lib" path="C:/Users/JOSE LUIS/Desktop/librerias/js_commons-codec-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/JOSE LUIS/Desktop/librerias/js_commons-discovery-0.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/JOSE LUIS/Desktop/librerias/js_commons-httpclient-3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/JOSE LUIS/Desktop/librerias/js_jasperserver-common-ws-3.5.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/JOSE LUIS/Desktop/librerias/js_jaxrpc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/JOSE LUIS/Desktop/librerias/js_mail-1.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/JOSE LUIS/Desktop/librerias/js_saaj-api-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/JOSE LUIS/Desktop/librerias/js_wsdl4j-1.5.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/JOSE LUIS/Desktop/librerias/jta.jar"/>
+	<classpathentry kind="lib" path="C:/Users/JOSE LUIS/Desktop/librerias/jxl-2.6.10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/JOSE LUIS/Desktop/librerias/log4j-1.2.15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/JOSE LUIS/Desktop/librerias/mondrian-3.1.1.12687-Jaspersoft.jar"/>
+	<classpathentry kind="lib" path="C:/Users/JOSE LUIS/Desktop/librerias/olap4j-0.9.7.145.jar"/>
+	<classpathentry kind="lib" path="C:/Users/JOSE LUIS/Desktop/librerias/png-encoder-1.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/JOSE LUIS/Desktop/librerias/poi-3.6-20091214.jar"/>
+	<classpathentry kind="lib" path="C:/Users/JOSE LUIS/Desktop/librerias/rex-20080421.jar"/>
+	<classpathentry kind="lib" path="C:/Users/JOSE LUIS/Desktop/librerias/rhino-1.7R1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/JOSE LUIS/Desktop/librerias/saaj-api-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/JOSE LUIS/Desktop/librerias/slf4j-api.jar"/>
+	<classpathentry kind="lib" path="C:/Users/JOSE LUIS/Desktop/librerias/slf4j-log4j12.jar"/>
+	<classpathentry kind="lib" path="C:/Users/JOSE LUIS/Desktop/librerias/spring.jar"/>
+	<classpathentry kind="lib" path="C:/Users/JOSE LUIS/Desktop/librerias/sqleonardo-2009.03.rc1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/JOSE LUIS/Desktop/librerias/swingx-2007_10_07.jar"/>
+	<classpathentry kind="lib" path="C:/Users/JOSE LUIS/Desktop/librerias/xml-apis.jar"/>
+	<classpathentry kind="lib" path="C:/Users/JOSE LUIS/Desktop/librerias/xml-apis-ext.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
