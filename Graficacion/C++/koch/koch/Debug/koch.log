@@ -1,0 +1,25 @@
+﻿Compilación iniciada a las 21/11/2012 1:57:24.
+     1>Proyecto "C:\Users\YESER\Documents\Visual Studio 2010\Projects\koch\koch\koch.vcxproj" en el nodo 2 (build destinos).
+     1>InitializeBuildStatus:
+         Aplicando tarea Touch a "Debug\koch.unsuccessfulbuild".
+       ClCompile:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt koch.cpp
+         koch.cpp
+     1>c:\users\yeser\documents\visual studio 2010\projects\koch\koch\koch.cpp(42): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304) : vea la declaración de 'scanf'
+     1>c:\users\yeser\documents\visual studio 2010\projects\koch\koch\koch.cpp(45): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304) : vea la declaración de 'scanf'
+     1>c:\users\yeser\documents\visual studio 2010\projects\koch\koch\koch.cpp(48): error C3861: 'moveto': no se encontró el identificador
+     1>c:\users\yeser\documents\visual studio 2010\projects\koch\koch\koch.cpp(53): error C3861: 'closegraph': no se encontró el identificador
+     1>c:\users\yeser\documents\visual studio 2010\projects\koch\koch\koch.cpp(72): error C3861: 'linerel': no se encontró el identificador
+     1>c:\users\yeser\documents\visual studio 2010\projects\koch\koch\koch.cpp(80): error C2065: 'DETECT' : identificador no declarado
+     1>c:\users\yeser\documents\visual studio 2010\projects\koch\koch\koch.cpp(82): error C3861: 'initgraph': no se encontró el identificador
+     1>c:\users\yeser\documents\visual studio 2010\projects\koch\koch\koch.cpp(83): error C3861: 'graphresult': no se encontró el identificador
+     1>c:\users\yeser\documents\visual studio 2010\projects\koch\koch\koch.cpp(85): error C2065: 'grOk' : identificador no declarado
+     1>c:\users\yeser\documents\visual studio 2010\projects\koch\koch\koch.cpp(88): error C3861: 'getmaxx': no se encontró el identificador
+     1>c:\users\yeser\documents\visual studio 2010\projects\koch\koch\koch.cpp(89): error C3861: 'getmaxy': no se encontró el identificador
+     1>Compilación del proyecto terminada "C:\Users\YESER\Documents\Visual Studio 2010\Projects\koch\koch\koch.vcxproj" (build destinos) -- ERROR.
+
+ERROR al compilar.
+
+Tiempo transcurrido 00:00:02.68
